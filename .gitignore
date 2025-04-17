@@ -1,2 +1,16 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments (if you have one)
+.venv/
+venv/
+
+# Ignore specific script folders
 scripts/inspecting_xml_files/
 scripts/unexplored_scripts/
