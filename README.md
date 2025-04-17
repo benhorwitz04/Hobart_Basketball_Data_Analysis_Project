@@ -5,7 +5,7 @@ This project analyzes Hobart Basketball's team performance from 2019 to 2025, us
 
 It includes a combination of SQL, Python scripting, and manual data validation to build a clean, reliable database from raw XML, PDF, and manual entry sources.
 
-> 📄 [Download the Full Data Analysis Portfolio (PDF)](./Hobart_Basketball_Data_Analysis_Portfolio.pdf)
+> 📄 [Download the Full Data Analysis Portfolio (PDF)](/Users/benjaminhorwitz/Documents/Developer/Final_Hobart_Project/Breakdowns/Final_project/Hobart_Basketball_Data_Analysis_Portfolio.pdf)
 
 ---
 
