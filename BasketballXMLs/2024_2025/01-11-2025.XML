@@ -1,0 +1,603 @@
+<bbgame source="Genius sports" version="0.0.1" generated="Apr 9, 2025">
+  <venue gameid="ITH-HOB" visid="ITH" visname="Ithaca" homeid="HOB" homename="Hobart" date="1/11/2025" location="Bristol Gym, Geneva, NY" time="4:00 pm" attend="300" leaguegame="Y" neutralgame="N" nitegame="Y" postseason="N" schednote="">
+    <officials text="Michael Sweeney, Robert Snedden, Willie Mason"/>
+    <rules prds="2" minutes="20" minutesot="5" fouls="5" qh="H"/>
+  </venue>
+  <status complete="Y" manualbox="Y"/>
+  <team vh="V" id="ITH" code="313" name="Ithaca" record="6-5,3-1 Liberty League">
+    <linescore line="37, 43" score="80">
+      <lineprd prd="1" score="37"/>
+      <lineprd prd="2" score="43"/>
+    </linescore>
+    <totals>
+      <stats fgm="26" fga="56" fgm3="8" fga3="20" ftm="20" fta="27" tp="80" blk="1" stl="6" ast="14" min="200" oreb="7" dreb="20" treb="27" pf="20" tf="0" to="10" dq="0" deadball="4,0"/>
+      <special vh="V" pts_to="15" pts_ch2="9" pts_paint="36" pts_fastb="13" pts_bench="13" ties="5" leads="1"/>
+    </totals>
+    <player uni="00" code="00" name="Wissink,Cole" checkname="WISSINK,COLE" gp="1" pos="G">
+      <stats fgm="1" fga="2" fgm3="1" fga3="1" ftm="2" fta="2" tp="5" blk="1" stl="0" ast="0" min="17" oreb="0" dreb="0" treb="0" pf="4" tf="0" to="0" dq="0"/>
+    </player>
+    <player uni="01" code="01" name="Wendell,Logan" checkname="WENDELL,LOGAN" gp="1" gs="1" pos="G">
+      <stats fgm="9" fga="20" fgm3="3" fga3="8" ftm="8" fta="9" tp="29" blk="0" stl="1" ast="1" min="34" oreb="1" dreb="2" treb="3" pf="1" tf="0" to="2" dq="0"/>
+    </player>
+    <player uni="02" code="02" name="O'Neal,Jaylon" checkname="O'NEAL,JAYLON" gp="1" gs="1" pos="G">
+      <stats fgm="1" fga="5" fgm3="0" fga3="4" ftm="0" fta="2" tp="2" blk="0" stl="2" ast="2" min="31" oreb="0" dreb="2" treb="2" pf="4" tf="0" to="1" dq="0"/>
+    </player>
+    <player uni="03" code="03" name="Holmes,Aidan" checkname="HOLMES,AIDAN" gp="1" gs="1" pos="G">
+      <stats fgm="3" fga="6" fgm3="1" fga3="1" ftm="6" fta="8" tp="13" blk="0" stl="2" ast="4" min="29" oreb="1" dreb="1" treb="2" pf="2" tf="0" to="0" dq="0"/>
+    </player>
+    <player uni="04" code="04" name="Nierenberg,Max" checkname="NIERENBERG,MAX" gp="0" pos="G"/>
+    <player uni="11" code="11" name="McKiernan,Thomas" checkname="MCKIERNAN,THOMAS" gp="0" pos="G"/>
+    <player uni="12" code="12" name="Brady,Laurence" checkname="BRADY,LAURENCE" gp="1" pos="F">
+      <stats fgm="1" fga="2" fgm3="0" fga3="1" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="8" oreb="0" dreb="3" treb="3" pf="0" tf="0" to="0" dq="0"/>
+    </player>
+    <player uni="13" code="13" name="Padilla,Jose" checkname="PADILLA,JOSE" gp="1" pos="G">
+      <stats fgm="1" fga="2" fgm3="0" fga3="0" ftm="2" fta="2" tp="4" blk="0" stl="1" ast="2" min="9" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="1" dq="0"/>
+    </player>
+    <player uni="14" code="14" name="Penders,Alex" checkname="PENDERS,ALEX" gp="1" pos="F">
+      <stats fgm="1" fga="2" fgm3="0" fga3="1" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="8" oreb="0" dreb="1" treb="1" pf="3" tf="0" to="0" dq="0"/>
+    </player>
+    <player uni="15" code="15" name="Cabral,Evan" checkname="CABRAL,EVAN" gp="1" gs="1" pos="G">
+      <stats fgm="6" fga="9" fgm3="2" fga3="3" ftm="0" fta="0" tp="14" blk="0" stl="0" ast="2" min="32" oreb="0" dreb="4" treb="4" pf="3" tf="0" to="3" dq="0"/>
+    </player>
+    <player uni="20" code="20" name="Porter,Michael" checkname="PORTER,MICHAEL" gp="0" pos="G"/>
+    <player uni="24" code="24" name="Regev,Yoav" checkname="REGEV,YOAV" gp="1" pos="G">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" dq="0"/>
+    </player>
+    <player uni="30" code="30" name="Leysath,Chris" checkname="LEYSATH,CHRIS" gp="1" gs="1" pos="F">
+      <stats fgm="3" fga="8" fgm3="1" fga3="1" ftm="2" fta="4" tp="9" blk="0" stl="0" ast="3" min="30" oreb="3" dreb="4" treb="7" pf="2" tf="0" to="2" dq="0"/>
+    </player>
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" gp="1">
+      <stats oreb="2" dreb="0" treb="2" pf="0" tf="0" to="0" dq="0"/>
+    </player>
+  </team>
+  <team vh="H" id="HOB" code="282" name="Hobart" record="10-3,4-2 Liberty League">
+    <linescore line="39, 48" score="87">
+      <lineprd prd="1" score="39"/>
+      <lineprd prd="2" score="48"/>
+    </linescore>
+    <totals>
+      <stats fgm="33" fga="59" fgm3="7" fga3="18" ftm="14" fta="23" tp="87" blk="6" stl="7" ast="17" min="200" oreb="11" dreb="22" treb="33" pf="20" tf="0" to="9" dq="0" deadball="4,4"/>
+      <special vh="H" pts_to="17" pts_ch2="16" pts_paint="46" pts_fastb="11" pts_bench="21" ties="5" leads="1"/>
+    </totals>
+    <player uni="00" code="00" name="Pysnack,Jaymon" checkname="PYSNACK,JAYMON" gp="0" pos="G"/>
+    <player uni="01" code="01" name="Paki,Dorian" checkname="PAKI,DORIAN" gp="1" pos="F">
+      <stats fgm="1" fga="3" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="3" stl="0" ast="0" min="14" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"/>
+    </player>
+    <player uni="02" code="02" name="Nedd,Monty" checkname="NEDD,MONTY" gp="1" pos="G">
+      <stats fgm="4" fga="5" fgm3="1" fga3="1" ftm="4" fta="6" tp="13" blk="0" stl="1" ast="1" min="11" oreb="1" dreb="1" treb="2" pf="3" tf="0" to="1" dq="0"/>
+    </player>
+    <player uni="03" code="03" name="Healy,Pat" checkname="HEALY,PAT" gp="1" gs="1" pos="G">
+      <stats fgm="7" fga="13" fgm3="2" fga3="5" ftm="6" fta="6" tp="22" blk="1" stl="1" ast="3" min="32" oreb="1" dreb="3" treb="4" pf="3" tf="0" to="1" dq="0"/>
+    </player>
+    <player uni="04" code="04" name="Moesch,Alex" checkname="MOESCH,ALEX" gp="1" gs="1" pos="G">
+      <stats fgm="5" fga="10" fgm3="2" fga3="6" ftm="0" fta="0" tp="12" blk="1" stl="1" ast="1" min="34" oreb="0" dreb="5" treb="5" pf="4" tf="0" to="1" dq="0"/>
+    </player>
+    <player uni="05" code="05" name="Price,Justin" checkname="PRICE,JUSTIN" gp="0" pos="G"/>
+    <player uni="10" code="10" name="Traina,Axel" checkname="TRAINA,AXEL" gp="0" pos="G"/>
+    <player uni="11" code="11" name="Mordi,Allen" checkname="MORDI,ALLEN" gp="1" pos="F">
+      <stats fgm="2" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="4" blk="0" stl="0" ast="2" min="16" oreb="2" dreb="1" treb="3" pf="1" tf="0" to="1" dq="0"/>
+    </player>
+    <player uni="12" code="12" name="Bergeron,Gabriel" checkname="BERGERON,GABRIEL" gp="1" pos="G">
+      <stats fgm="0" fga="3" fgm3="0" fga3="1" ftm="2" fta="4" tp="2" blk="0" stl="0" ast="1" min="15" oreb="2" dreb="1" treb="3" pf="2" tf="0" to="0" dq="0"/>
+    </player>
+    <player uni="20" code="20" name="Lutz,Niko" checkname="LUTZ,NIKO" gp="0" pos="F"/>
+    <player uni="21" code="21" name="Hanna,Andrew" checkname="HANNA,ANDREW" gp="0" pos="C"/>
+    <player uni="23" code="23" name="Meshanic,Carter" checkname="MESHANIC,CARTER" gp="1" gs="1" pos="G">
+      <stats fgm="9" fga="12" fgm3="0" fga3="0" ftm="1" fta="4" tp="19" blk="1" stl="0" ast="0" min="28" oreb="2" dreb="6" treb="8" pf="3" tf="0" to="2" dq="0"/>
+    </player>
+    <player uni="24" code="24" name="Meshanic,Hunter" checkname="MESHANIC,HUNTER" gp="1" gs="1" pos="F">
+      <stats fgm="3" fga="5" fgm3="0" fga3="1" ftm="0" fta="0" tp="6" blk="0" stl="3" ast="3" min="23" oreb="2" dreb="3" treb="5" pf="3" tf="0" to="0" dq="0"/>
+    </player>
+    <player uni="30" code="30" name="Khoorchard,Ashton" checkname="KHOORCHARD,ASHTON" gp="0" pos="F"/>
+    <player uni="31" code="31" name="Togodgue,Jean Marc" checkname="TOGODGUE,JEAN MARC" gp="0" pos="F"/>
+    <player uni="55" code="55" name="Rodgers,Aidan" checkname="RODGERS,AIDAN" gp="1" gs="1" pos="G">
+      <stats fgm="2" fga="6" fgm3="2" fga3="4" ftm="1" fta="3" tp="7" blk="0" stl="1" ast="6" min="27" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="3" dq="0"/>
+    </player>
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" gp="1">
+      <stats oreb="1" dreb="1" treb="2" pf="0" tf="0" to="0" dq="0"/>
+    </player>
+  </team>
+  <plays format="tokens">
+    <period number="1" time="20:00">
+      <special vh="H" pts_to="11" pts_ch2="2" pts_paint="22" pts_fastb="11" pts_bench="11" ties="4" leads="1"/>
+      <special vh="V" pts_to="9" pts_ch2="3" pts_paint="18" pts_fastb="6" pts_bench="4" ties="4" leads="1"/>
+      <summary vh="H" fgm="16" fga="30" fgm3="4" fga3="11" ftm="3" fta="7" blk="1" stl="5" ast="11" oreb="4" dreb="10" treb="14" pf="7" tf="0" to="5"/>
+      <summary vh="V" fgm="14" fga="28" fgm3="5" fga3="11" ftm="4" fta="5" blk="0" stl="3" ast="8" oreb="2" dreb="12" treb="14" pf="9" tf="0" to="7"/>
+      <play vh="V" time="19:43" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="19:40" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="REBOUND" type="OFF"/>
+      <play vh="V" time="19:39" uni="15" team="ITH" checkname="CABRAL,EVAN" action="GOOD" type="3PTR" vscore="3" hscore="0"/>
+      <play vh="V" time="19:39" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="ASSIST"/>
+      <play vh="H" time="19:11" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="GOOD" type="JUMPER" vscore="3" hscore="2"/>
+      <play vh="H" time="19:11" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="ASSIST"/>
+      <play vh="V" time="18:55" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="GOOD" type="3PTR" vscore="6" hscore="2"/>
+      <play vh="V" time="18:55" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="ASSIST"/>
+      <play vh="H" time="18:33" uni="03" team="HOB" checkname="HEALY,PAT" action="MISS" type="JUMPER" paint="Y"/>
+      <play vh="V" time="18:30" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="REBOUND" type="DEF"/>
+      <play vh="V" time="18:17" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="MISS" type="3PTR"/>
+      <play vh="H" time="18:14" uni="04" team="HOB" checkname="MOESCH,ALEX" action="REBOUND" type="DEF"/>
+      <play vh="H" time="17:46" uni="04" team="HOB" checkname="MOESCH,ALEX" action="TURNOVER"/>
+      <play vh="V" time="17:46" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="OUT"/>
+      <play vh="V" time="17:46" uni="14" team="ITH" checkname="PENDERS,ALEX" action="SUB" type="IN"/>
+      <play vh="V" time="17:33" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="GOOD" type="3PTR" vscore="9" hscore="2"/>
+      <play vh="V" time="17:33" uni="15" team="ITH" checkname="CABRAL,EVAN" action="ASSIST"/>
+      <play vh="H" time="17:07" uni="03" team="HOB" checkname="HEALY,PAT" action="MISS" type="3PTR"/>
+      <play vh="V" time="17:03" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="REBOUND" type="DEF"/>
+      <play vh="V" time="16:59" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="MISS" type="3PTR"/>
+      <play vh="H" time="16:55" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="REBOUND" type="DEF"/>
+      <play vh="V" time="16:38" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="FOUL"/>
+      <play vh="V" time="16:37" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="FOUL"/>
+      <play vh="H" time="16:31" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="GOOD" type="LAYUP" paint="Y" vscore="9" hscore="4"/>
+      <play vh="H" time="16:31" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="ASSIST"/>
+      <play vh="V" time="16:31" uni="14" team="ITH" checkname="PENDERS,ALEX" action="FOUL"/>
+      <play vh="H" time="16:31" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="GOOD" type="FT" vscore="9" hscore="5"/>
+      <play vh="V" time="16:17" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="16:14" uni="04" team="HOB" checkname="MOESCH,ALEX" action="REBOUND" type="DEF"/>
+      <play vh="V" time="16:08" uni="15" team="ITH" checkname="CABRAL,EVAN" action="FOUL"/>
+      <play vh="H" time="16:08" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="MISS" type="FT"/>
+      <play vh="H" time="16:08" uni="TM" team="HOB" checkname="TEAM" action="REBOUND" type="DEADB"/>
+      <play vh="H" time="16:08" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="MISS" type="FT"/>
+      <play vh="H" time="16:06" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="REBOUND" type="OFF"/>
+      <play vh="H" time="16:00" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="GOOD" type="3PTR" vscore="9" hscore="8"/>
+      <play vh="H" time="16:00" uni="03" team="HOB" checkname="HEALY,PAT" action="ASSIST"/>
+      <play vh="V" time="15:42" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="GOOD" type="LAYUP" paint="Y" vscore="11" hscore="8"/>
+      <play vh="H" time="15:12" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="TURNOVER"/>
+      <play vh="V" time="15:12" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="STEAL"/>
+      <play vh="V" time="15:08" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="13" hscore="8"/>
+      <play vh="H" time="15:08" uni="04" team="HOB" checkname="MOESCH,ALEX" action="FOUL"/>
+      <play vh="V" time="15:08" uni="14" team="ITH" checkname="PENDERS,ALEX" action="SUB" type="OUT"/>
+      <play vh="V" time="15:08" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="IN"/>
+      <play vh="V" time="15:08" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="GOOD" type="FT" fastb="Y" vscore="14" hscore="8"/>
+      <play vh="H" time="14:52" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="MISS" type="JUMPER"/>
+      <play vh="V" time="14:49" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="REBOUND" type="DEF"/>
+      <play vh="V" time="14:41" uni="15" team="ITH" checkname="CABRAL,EVAN" action="GOOD" type="3PTR" vscore="17" hscore="8"/>
+      <play vh="V" time="14:41" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="ASSIST"/>
+      <play vh="H" time="14:39" uni="TM" team="HOB" checkname="TEAM" action="TIMEOUT" type="30SEC"/>
+      <play vh="H" time="14:39" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="SUB" type="OUT"/>
+      <play vh="H" time="14:39" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="SUB" type="OUT"/>
+      <play vh="H" time="14:39" uni="01" team="HOB" checkname="PAKI,DORIAN" action="SUB" type="IN"/>
+      <play vh="H" time="14:39" uni="02" team="HOB" checkname="NEDD,MONTY" action="SUB" type="IN"/>
+      <play vh="H" time="14:21" uni="01" team="HOB" checkname="PAKI,DORIAN" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="14:16" uni="15" team="ITH" checkname="CABRAL,EVAN" action="REBOUND" type="DEF"/>
+      <play vh="V" time="14:11" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="MISS" type="3PTR"/>
+      <play vh="H" time="14:08" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="REBOUND" type="DEF"/>
+      <play vh="H" time="14:00" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="TURNOVER"/>
+      <play vh="V" time="14:00" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="STEAL"/>
+      <play vh="H" time="13:52" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="FOUL"/>
+      <play vh="V" time="13:52" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="GOOD" type="FT" fastb="Y" vscore="18" hscore="8"/>
+      <play vh="H" time="13:52" uni="04" team="HOB" checkname="MOESCH,ALEX" action="SUB" type="OUT"/>
+      <play vh="H" time="13:52" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="SUB" type="OUT"/>
+      <play vh="H" time="13:52" uni="11" team="HOB" checkname="MORDI,ALLEN" action="SUB" type="IN"/>
+      <play vh="H" time="13:52" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="SUB" type="IN"/>
+      <play vh="V" time="13:52" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="GOOD" type="FT" fastb="Y" vscore="19" hscore="8"/>
+      <play vh="V" time="13:52" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="SUB" type="OUT"/>
+      <play vh="V" time="13:52" uni="00" team="ITH" checkname="WISSINK,COLE" action="SUB" type="IN"/>
+      <play vh="H" time="13:32" uni="02" team="HOB" checkname="NEDD,MONTY" action="GOOD" type="3PTR" vscore="19" hscore="11"/>
+      <play vh="H" time="13:32" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="ASSIST"/>
+      <play vh="V" time="13:11" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="MISS" type="3PTR"/>
+      <play vh="H" time="13:09" uni="TM" team="HOB" checkname="TEAM" action="REBOUND" type="DEADB"/>
+      <play vh="H" time="12:47" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="12:44" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="REBOUND" type="DEF"/>
+      <play vh="V" time="12:40" uni="15" team="ITH" checkname="CABRAL,EVAN" action="MISS" type="3PTR"/>
+      <play vh="H" time="12:37" uni="02" team="HOB" checkname="NEDD,MONTY" action="REBOUND" type="DEF"/>
+      <play vh="V" time="12:37" uni="00" team="ITH" checkname="WISSINK,COLE" action="FOUL"/>
+      <play vh="V" time="12:37" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="SUB" type="OUT"/>
+      <play vh="V" time="12:37" uni="13" team="ITH" checkname="PADILLA,JOSE" action="SUB" type="IN"/>
+      <play vh="H" time="12:17" uni="02" team="HOB" checkname="NEDD,MONTY" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="12:14" uni="13" team="ITH" checkname="PADILLA,JOSE" action="REBOUND" type="DEF"/>
+      <play vh="H" time="12:06" uni="11" team="HOB" checkname="MORDI,ALLEN" action="FOUL"/>
+      <play vh="H" time="12:06" uni="03" team="HOB" checkname="HEALY,PAT" action="SUB" type="OUT"/>
+      <play vh="H" time="12:06" uni="04" team="HOB" checkname="MOESCH,ALEX" action="SUB" type="IN"/>
+      <play vh="V" time="11:59" uni="15" team="ITH" checkname="CABRAL,EVAN" action="GOOD" type="LAYUP" paint="Y" vscore="21" hscore="11"/>
+      <play vh="H" time="11:35" uni="11" team="HOB" checkname="MORDI,ALLEN" action="TURNOVER"/>
+      <play vh="V" time="11:35" uni="13" team="ITH" checkname="PADILLA,JOSE" action="STEAL"/>
+      <play vh="V" time="11:35" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="OUT"/>
+      <play vh="V" time="11:35" uni="14" team="ITH" checkname="PENDERS,ALEX" action="SUB" type="IN"/>
+      <play vh="V" time="11:33" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="TURNOVER"/>
+      <play vh="H" time="11:33" uni="02" team="HOB" checkname="NEDD,MONTY" action="STEAL"/>
+      <play vh="H" time="11:28" uni="02" team="HOB" checkname="NEDD,MONTY" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="21" hscore="13"/>
+      <play vh="H" time="11:09" uni="02" team="HOB" checkname="NEDD,MONTY" action="FOUL"/>
+      <play vh="V" time="11:02" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="11:01" uni="TM" team="HOB" checkname="TEAM" action="REBOUND" type="DEADB"/>
+      <play vh="V" time="11:01" uni="14" team="ITH" checkname="PENDERS,ALEX" action="FOUL"/>
+      <play vh="V" time="11:01" uni="14" team="ITH" checkname="PENDERS,ALEX" action="SUB" type="OUT"/>
+      <play vh="V" time="11:01" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="IN"/>
+      <play vh="V" time="10:44" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="FOUL"/>
+      <play vh="V" time="10:44" uni="15" team="ITH" checkname="CABRAL,EVAN" action="SUB" type="OUT"/>
+      <play vh="V" time="10:44" uni="24" team="ITH" checkname="REGEV,YOAV" action="SUB" type="IN"/>
+      <play vh="H" time="10:44" uni="02" team="HOB" checkname="NEDD,MONTY" action="GOOD" type="FT" vscore="21" hscore="14"/>
+      <play vh="H" time="10:44" uni="02" team="HOB" checkname="NEDD,MONTY" action="GOOD" type="FT" vscore="21" hscore="15"/>
+      <play vh="V" time="10:27" uni="24" team="ITH" checkname="REGEV,YOAV" action="TURNOVER"/>
+      <play vh="H" time="10:11" uni="01" team="HOB" checkname="PAKI,DORIAN" action="GOOD" type="LAYUP" paint="Y" vscore="21" hscore="17"/>
+      <play vh="H" time="10:11" uni="02" team="HOB" checkname="NEDD,MONTY" action="ASSIST"/>
+      <play vh="V" time="09:54" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="GOOD" type="JUMPER" paint="Y" vscore="23" hscore="17"/>
+      <play vh="H" time="09:40" uni="04" team="HOB" checkname="MOESCH,ALEX" action="MISS" type="3PTR"/>
+      <play vh="V" time="09:36" uni="24" team="ITH" checkname="REGEV,YOAV" action="REBOUND" type="DEF"/>
+      <play vh="V" time="09:29" uni="00" team="ITH" checkname="WISSINK,COLE" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="09:29" uni="01" team="HOB" checkname="PAKI,DORIAN" action="BLOCK"/>
+      <play vh="V" time="09:26" uni="TM" team="ITH" checkname="TEAM" action="REBOUND" type="OFF"/>
+      <play vh="V" time="09:14" uni="13" team="ITH" checkname="PADILLA,JOSE" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="09:10" uni="04" team="HOB" checkname="MOESCH,ALEX" action="REBOUND" type="DEF"/>
+      <play vh="H" time="08:52" uni="02" team="HOB" checkname="NEDD,MONTY" action="GOOD" type="LAYUP" paint="Y" vscore="23" hscore="19"/>
+      <play vh="V" time="08:41" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="GOOD" type="3PTR" vscore="26" hscore="19"/>
+      <play vh="V" time="08:41" uni="13" team="ITH" checkname="PADILLA,JOSE" action="ASSIST"/>
+      <play vh="H" time="08:32" uni="04" team="HOB" checkname="MOESCH,ALEX" action="MISS" type="3PTR"/>
+      <play vh="H" time="08:29" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="REBOUND" type="OFF"/>
+      <play vh="V" time="08:29" uni="00" team="ITH" checkname="WISSINK,COLE" action="FOUL"/>
+      <play vh="H" time="08:29" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="MISS" type="FT"/>
+      <play vh="H" time="08:29" uni="TM" team="HOB" checkname="TEAM" action="REBOUND" type="DEADB"/>
+      <play vh="H" time="08:29" uni="11" team="HOB" checkname="MORDI,ALLEN" action="SUB" type="OUT"/>
+      <play vh="H" time="08:29" uni="03" team="HOB" checkname="HEALY,PAT" action="SUB" type="IN"/>
+      <play vh="V" time="08:29" uni="00" team="ITH" checkname="WISSINK,COLE" action="SUB" type="OUT"/>
+      <play vh="V" time="08:29" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="SUB" type="OUT"/>
+      <play vh="V" time="08:29" uni="24" team="ITH" checkname="REGEV,YOAV" action="SUB" type="OUT"/>
+      <play vh="V" time="08:29" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="SUB" type="IN"/>
+      <play vh="V" time="08:29" uni="12" team="ITH" checkname="BRADY,LAURENCE" action="SUB" type="IN"/>
+      <play vh="V" time="08:29" uni="15" team="ITH" checkname="CABRAL,EVAN" action="SUB" type="IN"/>
+      <play vh="H" time="08:29" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="MISS" type="FT"/>
+      <play vh="V" time="08:26" uni="12" team="ITH" checkname="BRADY,LAURENCE" action="REBOUND" type="DEF"/>
+      <play vh="V" time="08:07" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="GOOD" type="LAYUP" paint="Y" vscore="28" hscore="19"/>
+      <play vh="V" time="08:07" uni="15" team="ITH" checkname="CABRAL,EVAN" action="ASSIST"/>
+      <play vh="H" time="07:50" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="MISS" type="3PTR"/>
+      <play vh="V" time="07:47" uni="13" team="ITH" checkname="PADILLA,JOSE" action="REBOUND" type="DEF"/>
+      <play vh="V" time="07:34" uni="13" team="ITH" checkname="PADILLA,JOSE" action="GOOD" type="LAYUP" paint="Y" vscore="30" hscore="19"/>
+      <play vh="V" time="07:34" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="ASSIST"/>
+      <play vh="H" time="07:14" uni="03" team="HOB" checkname="HEALY,PAT" action="MISS" type="3PTR"/>
+      <play vh="V" time="07:11" uni="12" team="ITH" checkname="BRADY,LAURENCE" action="REBOUND" type="DEF"/>
+      <play vh="V" time="06:54" uni="13" team="ITH" checkname="PADILLA,JOSE" action="FOUL"/>
+      <play vh="V" time="06:54" uni="13" team="ITH" checkname="PADILLA,JOSE" action="TURNOVER"/>
+      <play vh="H" time="06:54" uni="01" team="HOB" checkname="PAKI,DORIAN" action="SUB" type="OUT"/>
+      <play vh="H" time="06:54" uni="02" team="HOB" checkname="NEDD,MONTY" action="SUB" type="OUT"/>
+      <play vh="H" time="06:54" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="SUB" type="OUT"/>
+      <play vh="H" time="06:54" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="SUB" type="IN"/>
+      <play vh="H" time="06:54" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="SUB" type="IN"/>
+      <play vh="H" time="06:54" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="SUB" type="IN"/>
+      <play vh="V" time="06:54" uni="13" team="ITH" checkname="PADILLA,JOSE" action="SUB" type="OUT"/>
+      <play vh="V" time="06:54" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="OUT"/>
+      <play vh="V" time="06:54" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="SUB" type="IN"/>
+      <play vh="V" time="06:54" uni="14" team="ITH" checkname="PENDERS,ALEX" action="SUB" type="IN"/>
+      <play vh="H" time="06:33" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="MISS" type="3PTR"/>
+      <play vh="V" time="06:30" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="REBOUND" type="DEF"/>
+      <play vh="H" time="06:25" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="FOUL"/>
+      <play vh="V" time="06:11" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="06:08" uni="03" team="HOB" checkname="HEALY,PAT" action="REBOUND" type="DEF"/>
+      <play vh="H" time="06:00" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="GOOD" type="LAYUP" paint="Y" vscore="30" hscore="21"/>
+      <play vh="H" time="06:00" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="ASSIST"/>
+      <play vh="V" time="05:31" uni="15" team="ITH" checkname="CABRAL,EVAN" action="TURNOVER"/>
+      <play vh="H" time="05:31" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="STEAL"/>
+      <play vh="H" time="05:26" uni="04" team="HOB" checkname="MOESCH,ALEX" action="GOOD" type="3PTR" fastb="Y" vscore="30" hscore="24"/>
+      <play vh="H" time="05:26" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="ASSIST"/>
+      <play vh="V" time="05:23" uni="TM" team="ITH" checkname="TEAM" action="TIMEOUT" type="30SEC"/>
+      <play vh="V" time="05:23" uni="12" team="ITH" checkname="BRADY,LAURENCE" action="SUB" type="OUT"/>
+      <play vh="V" time="05:23" uni="14" team="ITH" checkname="PENDERS,ALEX" action="SUB" type="OUT"/>
+      <play vh="V" time="05:23" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="SUB" type="IN"/>
+      <play vh="V" time="05:23" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="IN"/>
+      <play vh="V" time="05:08" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="TURNOVER"/>
+      <play vh="H" time="05:08" uni="04" team="HOB" checkname="MOESCH,ALEX" action="STEAL"/>
+      <play vh="H" time="05:02" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="30" hscore="26"/>
+      <play vh="H" time="05:02" uni="03" team="HOB" checkname="HEALY,PAT" action="ASSIST"/>
+      <play vh="H" time="04:51" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="FOUL"/>
+      <play vh="V" time="04:32" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="TURNOVER"/>
+      <play vh="H" time="04:32" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="STEAL"/>
+      <play vh="H" time="04:27" uni="04" team="HOB" checkname="MOESCH,ALEX" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="30" hscore="28"/>
+      <play vh="H" time="04:27" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="ASSIST"/>
+      <play vh="V" time="04:09" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="04:06" uni="03" team="HOB" checkname="HEALY,PAT" action="REBOUND" type="DEF"/>
+      <play vh="H" time="04:02" uni="03" team="HOB" checkname="HEALY,PAT" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="30" hscore="30"/>
+      <play vh="V" time="03:28" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="MISS" type="3PTR"/>
+      <play vh="H" time="03:24" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="REBOUND" type="DEF"/>
+      <play vh="H" time="03:10" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="GOOD" type="LAYUP" paint="Y" vscore="30" hscore="32"/>
+      <play vh="V" time="02:45" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="GOOD" type="LAYUP" paint="Y" vscore="32" hscore="32"/>
+      <play vh="H" time="02:34" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="GOOD" type="3PTR" vscore="32" hscore="35"/>
+      <play vh="H" time="02:34" uni="03" team="HOB" checkname="HEALY,PAT" action="ASSIST"/>
+      <play vh="V" time="02:15" uni="15" team="ITH" checkname="CABRAL,EVAN" action="TURNOVER"/>
+      <play vh="H" time="02:15" uni="03" team="HOB" checkname="HEALY,PAT" action="STEAL"/>
+      <play vh="H" time="02:09" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="MISS" type="3PTR"/>
+      <play vh="V" time="02:06" uni="15" team="ITH" checkname="CABRAL,EVAN" action="REBOUND" type="DEF"/>
+      <play vh="H" time="02:01" uni="04" team="HOB" checkname="MOESCH,ALEX" action="FOUL"/>
+      <play vh="H" time="02:01" uni="04" team="HOB" checkname="MOESCH,ALEX" action="SUB" type="OUT"/>
+      <play vh="H" time="02:01" uni="11" team="HOB" checkname="MORDI,ALLEN" action="SUB" type="IN"/>
+      <play vh="V" time="02:01" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="OUT"/>
+      <play vh="V" time="02:01" uni="12" team="ITH" checkname="BRADY,LAURENCE" action="SUB" type="IN"/>
+      <play vh="V" time="02:01" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="GOOD" type="FT" fastb="Y" vscore="33" hscore="35"/>
+      <play vh="V" time="02:01" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="MISS" type="FT" fastb="Y"/>
+      <play vh="H" time="02:00" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="REBOUND" type="DEF"/>
+      <play vh="H" time="01:49" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="TURNOVER"/>
+      <play vh="V" time="01:31" uni="12" team="ITH" checkname="BRADY,LAURENCE" action="GOOD" type="LAYUP" paint="Y" vscore="35" hscore="35"/>
+      <play vh="V" time="01:31" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="ASSIST"/>
+      <play vh="H" time="01:06" uni="03" team="HOB" checkname="HEALY,PAT" action="MISS" type="JUMPER" paint="Y"/>
+      <play vh="H" time="01:03" uni="11" team="HOB" checkname="MORDI,ALLEN" action="REBOUND" type="OFF"/>
+      <play vh="H" time="00:53" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="00:49" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="REBOUND" type="OFF"/>
+      <play vh="H" time="00:48" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="GOOD" type="LAYUP" paint="Y" vscore="35" hscore="37"/>
+      <play vh="V" time="00:42" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="GOOD" type="LAYUP" paint="Y" vscore="37" hscore="37"/>
+      <play vh="H" time="00:16" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="GOOD" type="LAYUP" paint="Y" vscore="37" hscore="39"/>
+      <play vh="H" time="00:16" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="ASSIST"/>
+      <play vh="V" time="00:00" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="00:00" uni="TM" team="HOB" checkname="TEAM" action="REBOUND" type="DEADB"/>
+      <clock time="00:00"/>
+    </period>
+    <period number="2" time="20:00">
+      <special vh="H" pts_to="6" pts_ch2="14" pts_paint="24" pts_fastb="0" pts_bench="10" ties="1" leads="0"/>
+      <special vh="V" pts_to="6" pts_ch2="6" pts_paint="18" pts_fastb="7" pts_bench="9" ties="1" leads="0"/>
+      <summary vh="H" fgm="17" fga="29" fgm3="3" fga3="7" ftm="11" fta="16" blk="5" stl="2" ast="6" oreb="7" dreb="12" treb="19" pf="13" tf="0" to="4"/>
+      <summary vh="V" fgm="12" fga="28" fgm3="3" fga3="9" ftm="16" fta="22" blk="1" stl="3" ast="6" oreb="5" dreb="8" treb="13" pf="11" tf="0" to="3"/>
+      <play vh="H" time="20:00" uni="11" team="HOB" checkname="MORDI,ALLEN" action="SUB" type="OUT"/>
+      <play vh="H" time="20:00" uni="04" team="HOB" checkname="MOESCH,ALEX" action="SUB" type="IN"/>
+      <play vh="V" time="20:00" uni="12" team="ITH" checkname="BRADY,LAURENCE" action="SUB" type="OUT"/>
+      <play vh="V" time="20:00" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="IN"/>
+      <play vh="V" time="19:44" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="19:41" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="REBOUND" type="OFF"/>
+      <play vh="V" time="19:40" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="19:37" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="REBOUND" type="DEF"/>
+      <play vh="H" time="19:24" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="MISS" type="JUMPER" paint="Y"/>
+      <play vh="V" time="19:21" uni="15" team="ITH" checkname="CABRAL,EVAN" action="REBOUND" type="DEF"/>
+      <play vh="V" time="19:17" uni="15" team="ITH" checkname="CABRAL,EVAN" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="39" hscore="39"/>
+      <play vh="H" time="19:01" uni="03" team="HOB" checkname="HEALY,PAT" action="GOOD" type="3PTR" vscore="39" hscore="42"/>
+      <play vh="H" time="19:01" uni="04" team="HOB" checkname="MOESCH,ALEX" action="ASSIST"/>
+      <play vh="H" time="18:47" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="FOUL"/>
+      <play vh="V" time="18:40" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="18:37" uni="03" team="HOB" checkname="HEALY,PAT" action="REBOUND" type="DEF"/>
+      <play vh="H" time="18:33" uni="03" team="HOB" checkname="HEALY,PAT" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="18:31" uni="03" team="HOB" checkname="HEALY,PAT" action="REBOUND" type="OFF"/>
+      <play vh="H" time="18:30" uni="03" team="HOB" checkname="HEALY,PAT" action="GOOD" type="LAYUP" paint="Y" vscore="39" hscore="44"/>
+      <play vh="V" time="18:22" uni="15" team="ITH" checkname="CABRAL,EVAN" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="41" hscore="44"/>
+      <play vh="V" time="18:22" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="ASSIST"/>
+      <play vh="H" time="18:13" uni="03" team="HOB" checkname="HEALY,PAT" action="MISS" type="3PTR"/>
+      <play vh="H" time="18:10" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="REBOUND" type="OFF"/>
+      <play vh="H" time="18:09" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="GOOD" type="LAYUP" paint="Y" vscore="41" hscore="46"/>
+      <play vh="V" time="18:00" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="GOOD" type="LAYUP" paint="Y" vscore="43" hscore="46"/>
+      <play vh="V" time="17:59" uni="TM" team="ITH" checkname="TEAM" action="TIMEOUT" type="30SEC"/>
+      <play vh="H" time="17:41" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="MISS" type="JUMPER" paint="Y"/>
+      <play vh="V" time="17:37" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="REBOUND" type="DEF"/>
+      <play vh="V" time="17:29" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="GOOD" type="LAYUP" paint="Y" vscore="45" hscore="46"/>
+      <play vh="H" time="17:18" uni="04" team="HOB" checkname="MOESCH,ALEX" action="MISS" type="3PTR"/>
+      <play vh="H" time="17:12" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="REBOUND" type="OFF"/>
+      <play vh="H" time="17:12" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="GOOD" type="TIPIN" paint="Y" vscore="45" hscore="48"/>
+      <play vh="V" time="16:55" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="GOOD" type="LAYUP" paint="Y" vscore="47" hscore="48"/>
+      <play vh="V" time="16:55" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="ASSIST"/>
+      <play vh="H" time="16:33" uni="03" team="HOB" checkname="HEALY,PAT" action="GOOD" type="3PTR" vscore="47" hscore="51"/>
+      <play vh="H" time="16:33" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="ASSIST"/>
+      <play vh="H" time="16:30" uni="TM" team="HOB" checkname="TEAM" action="TIMEOUT" type="30SEC"/>
+      <play vh="V" time="16:12" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="TURNOVER"/>
+      <play vh="H" time="15:50" uni="03" team="HOB" checkname="HEALY,PAT" action="GOOD" type="JUMPER" paint="Y" vscore="47" hscore="53"/>
+      <play vh="V" time="15:30" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="TURNOVER"/>
+      <play vh="H" time="15:30" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="STEAL"/>
+      <play vh="H" time="15:11" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="GOOD" type="LAYUP" paint="Y" vscore="47" hscore="55"/>
+      <play vh="H" time="15:11" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="ASSIST"/>
+      <play vh="V" time="14:59" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="MISS" type="3PTR"/>
+      <play vh="H" time="14:55" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="REBOUND" type="DEF"/>
+      <play vh="H" time="14:33" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="MISS" type="3PTR"/>
+      <play vh="V" time="14:30" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="REBOUND" type="DEF"/>
+      <play vh="V" time="14:16" uni="15" team="ITH" checkname="CABRAL,EVAN" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="14:14" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="REBOUND" type="OFF"/>
+      <play vh="H" time="14:14" uni="03" team="HOB" checkname="HEALY,PAT" action="FOUL"/>
+      <play vh="V" time="14:14" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="MISS" type="FT"/>
+      <play vh="V" time="14:14" uni="TM" team="ITH" checkname="TEAM" action="REBOUND" type="DEADB"/>
+      <play vh="H" time="14:14" uni="04" team="HOB" checkname="MOESCH,ALEX" action="SUB" type="OUT"/>
+      <play vh="H" time="14:14" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="SUB" type="OUT"/>
+      <play vh="H" time="14:14" uni="02" team="HOB" checkname="NEDD,MONTY" action="SUB" type="IN"/>
+      <play vh="H" time="14:14" uni="11" team="HOB" checkname="MORDI,ALLEN" action="SUB" type="IN"/>
+      <play vh="V" time="14:14" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="SUB" type="OUT"/>
+      <play vh="V" time="14:14" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="SUB" type="OUT"/>
+      <play vh="V" time="14:14" uni="00" team="ITH" checkname="WISSINK,COLE" action="SUB" type="IN"/>
+      <play vh="V" time="14:14" uni="13" team="ITH" checkname="PADILLA,JOSE" action="SUB" type="IN"/>
+      <play vh="V" time="14:14" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="GOOD" type="FT" vscore="48" hscore="55"/>
+      <play vh="V" time="14:14" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="OUT"/>
+      <play vh="V" time="14:14" uni="14" team="ITH" checkname="PENDERS,ALEX" action="SUB" type="IN"/>
+      <play vh="V" time="13:53" uni="00" team="ITH" checkname="WISSINK,COLE" action="FOUL"/>
+      <play vh="H" time="13:53" uni="02" team="HOB" checkname="NEDD,MONTY" action="GOOD" type="FT" vscore="48" hscore="56"/>
+      <play vh="H" time="13:53" uni="02" team="HOB" checkname="NEDD,MONTY" action="GOOD" type="FT" vscore="48" hscore="57"/>
+      <play vh="H" time="13:37" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="FOUL"/>
+      <play vh="V" time="13:37" uni="00" team="ITH" checkname="WISSINK,COLE" action="GOOD" type="FT" vscore="49" hscore="57"/>
+      <play vh="H" time="13:37" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="SUB" type="OUT"/>
+      <play vh="H" time="13:37" uni="01" team="HOB" checkname="PAKI,DORIAN" action="SUB" type="IN"/>
+      <play vh="V" time="13:37" uni="00" team="ITH" checkname="WISSINK,COLE" action="GOOD" type="FT" vscore="50" hscore="57"/>
+      <play vh="H" time="13:22" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="GOOD" type="LAYUP" paint="Y" vscore="50" hscore="59"/>
+      <play vh="H" time="13:22" uni="11" team="HOB" checkname="MORDI,ALLEN" action="ASSIST"/>
+      <play vh="V" time="12:59" uni="14" team="ITH" checkname="PENDERS,ALEX" action="GOOD" type="LAYUP" paint="Y" vscore="52" hscore="59"/>
+      <play vh="V" time="12:59" uni="13" team="ITH" checkname="PADILLA,JOSE" action="ASSIST"/>
+      <play vh="V" time="12:40" uni="15" team="ITH" checkname="CABRAL,EVAN" action="FOUL"/>
+      <play vh="H" time="12:40" uni="02" team="HOB" checkname="NEDD,MONTY" action="MISS" type="FT"/>
+      <play vh="H" time="12:40" uni="TM" team="HOB" checkname="TEAM" action="REBOUND" type="DEADB"/>
+      <play vh="H" time="12:39" uni="02" team="HOB" checkname="NEDD,MONTY" action="MISS" type="FT"/>
+      <play vh="H" time="12:38" uni="02" team="HOB" checkname="NEDD,MONTY" action="REBOUND" type="OFF"/>
+      <play vh="H" time="12:35" uni="02" team="HOB" checkname="NEDD,MONTY" action="GOOD" type="LAYUP" paint="Y" vscore="52" hscore="61"/>
+      <play vh="H" time="12:14" uni="02" team="HOB" checkname="NEDD,MONTY" action="FOUL"/>
+      <play vh="V" time="12:14" uni="13" team="ITH" checkname="PADILLA,JOSE" action="GOOD" type="FT" vscore="53" hscore="61"/>
+      <play vh="H" time="12:14" uni="03" team="HOB" checkname="HEALY,PAT" action="SUB" type="OUT"/>
+      <play vh="H" time="12:14" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="SUB" type="OUT"/>
+      <play vh="H" time="12:14" uni="04" team="HOB" checkname="MOESCH,ALEX" action="SUB" type="IN"/>
+      <play vh="H" time="12:14" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="SUB" type="IN"/>
+      <play vh="V" time="12:14" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="SUB" type="OUT"/>
+      <play vh="V" time="12:14" uni="15" team="ITH" checkname="CABRAL,EVAN" action="SUB" type="OUT"/>
+      <play vh="V" time="12:14" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="SUB" type="IN"/>
+      <play vh="V" time="12:14" uni="12" team="ITH" checkname="BRADY,LAURENCE" action="SUB" type="IN"/>
+      <play vh="V" time="12:14" uni="13" team="ITH" checkname="PADILLA,JOSE" action="GOOD" type="FT" vscore="54" hscore="61"/>
+      <play vh="H" time="11:49" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="11:46" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="REBOUND" type="OFF"/>
+      <play vh="V" time="11:45" uni="14" team="ITH" checkname="PENDERS,ALEX" action="FOUL"/>
+      <play vh="H" time="11:45" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="GOOD" type="FT" vscore="54" hscore="62"/>
+      <play vh="V" time="11:45" uni="14" team="ITH" checkname="PENDERS,ALEX" action="SUB" type="OUT"/>
+      <play vh="V" time="11:45" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="IN"/>
+      <play vh="H" time="11:45" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="GOOD" type="FT" vscore="54" hscore="63"/>
+      <play vh="V" time="11:24" uni="12" team="ITH" checkname="BRADY,LAURENCE" action="MISS" type="3PTR"/>
+      <play vh="H" time="11:19" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="REBOUND" type="DEF"/>
+      <play vh="H" time="11:13" uni="02" team="HOB" checkname="NEDD,MONTY" action="TURNOVER"/>
+      <play vh="V" time="11:13" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="STEAL"/>
+      <play vh="H" time="11:07" uni="02" team="HOB" checkname="NEDD,MONTY" action="FOUL"/>
+      <play vh="V" time="11:07" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="GOOD" type="FT" fastb="Y" vscore="55" hscore="63"/>
+      <play vh="H" time="11:07" uni="02" team="HOB" checkname="NEDD,MONTY" action="SUB" type="OUT"/>
+      <play vh="H" time="11:07" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="SUB" type="IN"/>
+      <play vh="V" time="11:07" uni="13" team="ITH" checkname="PADILLA,JOSE" action="SUB" type="OUT"/>
+      <play vh="V" time="11:07" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="SUB" type="IN"/>
+      <play vh="V" time="11:06" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="MISS" type="FT" fastb="Y"/>
+      <play vh="H" time="11:04" uni="04" team="HOB" checkname="MOESCH,ALEX" action="REBOUND" type="DEF"/>
+      <play vh="H" time="10:39" uni="04" team="HOB" checkname="MOESCH,ALEX" action="GOOD" type="LAYUP" paint="Y" vscore="55" hscore="65"/>
+      <play vh="V" time="10:28" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="10:28" uni="01" team="HOB" checkname="PAKI,DORIAN" action="BLOCK"/>
+      <play vh="V" time="10:24" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="REBOUND" type="OFF"/>
+      <play vh="V" time="10:13" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="GOOD" type="3PTR" vscore="58" hscore="65"/>
+      <play vh="V" time="10:13" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="ASSIST"/>
+      <play vh="H" time="10:12" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="FOUL"/>
+      <play vh="V" time="10:12" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="GOOD" type="FT" vscore="59" hscore="65"/>
+      <play vh="H" time="09:51" uni="11" team="HOB" checkname="MORDI,ALLEN" action="GOOD" type="LAYUP" paint="Y" vscore="59" hscore="67"/>
+      <play vh="V" time="09:33" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="09:33" uni="01" team="HOB" checkname="PAKI,DORIAN" action="BLOCK"/>
+      <play vh="H" time="09:29" uni="11" team="HOB" checkname="MORDI,ALLEN" action="REBOUND" type="DEF"/>
+      <play vh="H" time="09:25" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="09:22" uni="12" team="ITH" checkname="BRADY,LAURENCE" action="REBOUND" type="DEF"/>
+      <play vh="V" time="09:18" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="MISS" type="3PTR"/>
+      <play vh="H" time="09:15" uni="TM" team="HOB" checkname="TEAM" action="REBOUND" type="DEF"/>
+      <play vh="V" time="08:59" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="FOUL"/>
+      <play vh="V" time="08:59" uni="12" team="ITH" checkname="BRADY,LAURENCE" action="SUB" type="OUT"/>
+      <play vh="V" time="08:59" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="SUB" type="IN"/>
+      <play vh="H" time="08:49" uni="01" team="HOB" checkname="PAKI,DORIAN" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="08:46" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="REBOUND" type="DEF"/>
+      <play vh="V" time="08:41" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="GOOD" type="3PTR" vscore="62" hscore="67"/>
+      <play vh="V" time="08:41" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="ASSIST"/>
+      <play vh="H" time="08:10" uni="04" team="HOB" checkname="MOESCH,ALEX" action="GOOD" type="JUMPER" vscore="62" hscore="69"/>
+      <play vh="H" time="07:51" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="FOUL"/>
+      <play vh="V" time="07:51" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="MISS" type="FT"/>
+      <play vh="V" time="07:51" uni="TM" team="ITH" checkname="TEAM" action="REBOUND" type="DEADB"/>
+      <play vh="H" time="07:51" uni="01" team="HOB" checkname="PAKI,DORIAN" action="SUB" type="OUT"/>
+      <play vh="H" time="07:51" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="SUB" type="OUT"/>
+      <play vh="H" time="07:51" uni="03" team="HOB" checkname="HEALY,PAT" action="SUB" type="IN"/>
+      <play vh="H" time="07:51" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="SUB" type="IN"/>
+      <play vh="V" time="07:51" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="GOOD" type="FT" vscore="63" hscore="69"/>
+      <play vh="H" time="07:29" uni="04" team="HOB" checkname="MOESCH,ALEX" action="GOOD" type="3PTR" vscore="63" hscore="72"/>
+      <play vh="H" time="07:29" uni="11" team="HOB" checkname="MORDI,ALLEN" action="ASSIST"/>
+      <play vh="V" time="07:02" uni="00" team="ITH" checkname="WISSINK,COLE" action="GOOD" type="3PTR" vscore="66" hscore="72"/>
+      <play vh="V" time="07:02" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="ASSIST"/>
+      <play vh="H" time="06:27" uni="04" team="HOB" checkname="MOESCH,ALEX" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="06:24" uni="11" team="HOB" checkname="MORDI,ALLEN" action="REBOUND" type="OFF"/>
+      <play vh="H" time="06:23" uni="11" team="HOB" checkname="MORDI,ALLEN" action="GOOD" type="LAYUP" paint="Y" vscore="66" hscore="74"/>
+      <play vh="H" time="06:14" uni="04" team="HOB" checkname="MOESCH,ALEX" action="FOUL"/>
+      <play vh="V" time="06:14" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="GOOD" type="FT" vscore="67" hscore="74"/>
+      <play vh="V" time="06:14" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="SUB" type="OUT"/>
+      <play vh="V" time="06:14" uni="15" team="ITH" checkname="CABRAL,EVAN" action="SUB" type="IN"/>
+      <play vh="V" time="06:13" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="GOOD" type="FT" vscore="68" hscore="74"/>
+      <play vh="H" time="06:07" uni="03" team="HOB" checkname="HEALY,PAT" action="TURNOVER"/>
+      <play vh="V" time="06:07" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="STEAL"/>
+      <play vh="H" time="06:02" uni="03" team="HOB" checkname="HEALY,PAT" action="FOUL"/>
+      <play vh="V" time="06:02" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="GOOD" type="FT" fastb="Y" vscore="69" hscore="74"/>
+      <play vh="H" time="06:02" uni="11" team="HOB" checkname="MORDI,ALLEN" action="SUB" type="OUT"/>
+      <play vh="H" time="06:02" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="SUB" type="IN"/>
+      <play vh="V" time="06:02" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="GOOD" type="FT" fastb="Y" vscore="70" hscore="74"/>
+      <play vh="V" time="05:56" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="FOUL"/>
+      <play vh="V" time="05:28" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="FOUL"/>
+      <play vh="H" time="05:28" uni="03" team="HOB" checkname="HEALY,PAT" action="GOOD" type="FT" vscore="70" hscore="75"/>
+      <play vh="H" time="05:28" uni="03" team="HOB" checkname="HEALY,PAT" action="GOOD" type="FT" vscore="70" hscore="76"/>
+      <play vh="H" time="05:07" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="FOUL"/>
+      <play vh="V" time="05:07" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="MISS" type="FT"/>
+      <play vh="V" time="05:07" uni="TM" team="ITH" checkname="TEAM" action="REBOUND" type="DEADB"/>
+      <play vh="H" time="05:07" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="SUB" type="OUT"/>
+      <play vh="H" time="05:07" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="SUB" type="IN"/>
+      <play vh="V" time="05:06" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="MISS" type="FT"/>
+      <play vh="H" time="05:04" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="REBOUND" type="DEF"/>
+      <play vh="H" time="04:59" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="TURNOVER"/>
+      <play vh="V" time="04:59" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="STEAL"/>
+      <play vh="V" time="04:42" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="GOOD" type="LAYUP" paint="Y" vscore="72" hscore="76"/>
+      <play vh="H" time="04:21" uni="03" team="HOB" checkname="HEALY,PAT" action="GOOD" type="JUMPER" vscore="72" hscore="78"/>
+      <play vh="V" time="04:06" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="MISS" type="JUMPER" paint="Y"/>
+      <play vh="H" time="04:06" uni="04" team="HOB" checkname="MOESCH,ALEX" action="BLOCK"/>
+      <play vh="H" time="04:03" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="REBOUND" type="DEF"/>
+      <play vh="H" time="03:46" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="GOOD" type="JUMPER" paint="Y" vscore="72" hscore="80"/>
+      <play vh="H" time="03:34" uni="03" team="HOB" checkname="HEALY,PAT" action="FOUL"/>
+      <play vh="V" time="03:34" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="GOOD" type="FT" vscore="73" hscore="80"/>
+      <play vh="V" time="03:34" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="GOOD" type="FT" vscore="74" hscore="80"/>
+      <play vh="H" time="03:14" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="03:14" uni="00" team="ITH" checkname="WISSINK,COLE" action="BLOCK"/>
+      <play vh="H" time="03:13" uni="TM" team="HOB" checkname="TEAM" action="REBOUND" type="OFF"/>
+      <play vh="H" time="03:12" uni="03" team="HOB" checkname="HEALY,PAT" action="GOOD" type="LAYUP" paint="Y" vscore="74" hscore="82"/>
+      <play vh="H" time="03:12" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="ASSIST"/>
+      <play vh="V" time="03:01" uni="15" team="ITH" checkname="CABRAL,EVAN" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="03:01" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="BLOCK"/>
+      <play vh="H" time="02:57" uni="24" team="HOB" checkname="MESHANIC,HUNTER" action="REBOUND" type="DEF"/>
+      <play vh="H" time="02:38" uni="04" team="HOB" checkname="MOESCH,ALEX" action="MISS" type="3PTR"/>
+      <play vh="V" time="02:32" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="REBOUND" type="DEF"/>
+      <play vh="V" time="02:20" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="MISS" type="3PTR"/>
+      <play vh="H" time="02:17" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="REBOUND" type="DEF"/>
+      <play vh="V" time="02:17" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="FOUL"/>
+      <play vh="V" time="02:17" uni="00" team="ITH" checkname="WISSINK,COLE" action="SUB" type="OUT"/>
+      <play vh="V" time="02:17" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="OUT"/>
+      <play vh="V" time="02:17" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="SUB" type="IN"/>
+      <play vh="V" time="02:17" uni="14" team="ITH" checkname="PENDERS,ALEX" action="SUB" type="IN"/>
+      <play vh="H" time="02:16" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="MISS" type="FT"/>
+      <play vh="V" time="02:15" uni="14" team="ITH" checkname="PENDERS,ALEX" action="REBOUND" type="DEF"/>
+      <play vh="V" time="01:50" uni="15" team="ITH" checkname="CABRAL,EVAN" action="GOOD" type="LAYUP" paint="Y" vscore="76" hscore="82"/>
+      <play vh="V" time="01:48" uni="TM" team="ITH" checkname="TEAM" action="TIMEOUT" type="TEAM"/>
+      <play vh="V" time="01:48" uni="14" team="ITH" checkname="PENDERS,ALEX" action="SUB" type="OUT"/>
+      <play vh="V" time="01:48" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="IN"/>
+      <play vh="H" time="01:22" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="TURNOVER"/>
+      <play vh="V" time="01:22" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="OUT"/>
+      <play vh="V" time="01:22" uni="14" team="ITH" checkname="PENDERS,ALEX" action="SUB" type="IN"/>
+      <play vh="V" time="01:10" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="01:10" uni="03" team="HOB" checkname="HEALY,PAT" action="BLOCK"/>
+      <play vh="V" time="01:06" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="REBOUND" type="OFF"/>
+      <play vh="V" time="01:06" uni="14" team="ITH" checkname="PENDERS,ALEX" action="MISS" type="3PTR"/>
+      <play vh="V" time="01:04" uni="TM" team="ITH" checkname="TEAM" action="REBOUND" type="OFF"/>
+      <play vh="V" time="01:04" uni="TM" team="ITH" checkname="TEAM" action="TIMEOUT" type="TEAM"/>
+      <play vh="V" time="01:04" uni="14" team="ITH" checkname="PENDERS,ALEX" action="SUB" type="OUT"/>
+      <play vh="V" time="01:04" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="IN"/>
+      <play vh="H" time="00:53" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="FOUL"/>
+      <play vh="V" time="00:53" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="MISS" type="FT"/>
+      <play vh="V" time="00:53" uni="TM" team="ITH" checkname="TEAM" action="REBOUND" type="DEADB"/>
+      <play vh="H" time="00:53" uni="23" team="HOB" checkname="MESHANIC,CARTER" action="SUB" type="OUT"/>
+      <play vh="H" time="00:53" uni="11" team="HOB" checkname="MORDI,ALLEN" action="SUB" type="IN"/>
+      <play vh="V" time="00:53" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="SUB" type="OUT"/>
+      <play vh="V" time="00:53" uni="00" team="ITH" checkname="WISSINK,COLE" action="SUB" type="IN"/>
+      <play vh="V" time="00:53" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="GOOD" type="FT" vscore="77" hscore="82"/>
+      <play vh="V" time="00:50" uni="15" team="ITH" checkname="CABRAL,EVAN" action="FOUL"/>
+      <play vh="V" time="00:50" uni="00" team="ITH" checkname="WISSINK,COLE" action="SUB" type="OUT"/>
+      <play vh="V" time="00:50" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="SUB" type="IN"/>
+      <play vh="H" time="00:49" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="MISS" type="FT"/>
+      <play vh="V" time="00:48" uni="15" team="ITH" checkname="CABRAL,EVAN" action="REBOUND" type="DEF"/>
+      <play vh="V" time="00:39" uni="15" team="ITH" checkname="CABRAL,EVAN" action="TURNOVER"/>
+      <play vh="H" time="00:39" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="STEAL"/>
+      <play vh="H" time="00:37" uni="TM" team="HOB" checkname="TEAM" action="TIMEOUT" type="TEAM"/>
+      <play vh="V" time="00:37" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="SUB" type="OUT"/>
+      <play vh="V" time="00:37" uni="00" team="ITH" checkname="WISSINK,COLE" action="SUB" type="IN"/>
+      <play vh="V" time="00:37" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="OUT"/>
+      <play vh="V" time="00:37" uni="12" team="ITH" checkname="BRADY,LAURENCE" action="SUB" type="IN"/>
+      <play vh="V" time="00:34" uni="03" team="ITH" checkname="HOLMES,AIDAN" action="FOUL"/>
+      <play vh="V" time="00:34" uni="00" team="ITH" checkname="WISSINK,COLE" action="SUB" type="OUT"/>
+      <play vh="V" time="00:34" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="SUB" type="IN"/>
+      <play vh="V" time="00:34" uni="12" team="ITH" checkname="BRADY,LAURENCE" action="SUB" type="OUT"/>
+      <play vh="V" time="00:34" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="IN"/>
+      <play vh="H" time="00:34" uni="03" team="HOB" checkname="HEALY,PAT" action="GOOD" type="FT" vscore="77" hscore="83"/>
+      <play vh="H" time="00:34" uni="03" team="HOB" checkname="HEALY,PAT" action="GOOD" type="FT" vscore="77" hscore="84"/>
+      <play vh="H" time="00:34" uni="11" team="HOB" checkname="MORDI,ALLEN" action="SUB" type="OUT"/>
+      <play vh="H" time="00:34" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="SUB" type="IN"/>
+      <play vh="V" time="00:23" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="GOOD" type="LAYUP" paint="Y" vscore="79" hscore="84"/>
+      <play vh="H" time="00:23" uni="04" team="HOB" checkname="MOESCH,ALEX" action="FOUL"/>
+      <play vh="H" time="00:23" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="SUB" type="OUT"/>
+      <play vh="H" time="00:23" uni="11" team="HOB" checkname="MORDI,ALLEN" action="SUB" type="IN"/>
+      <play vh="V" time="00:23" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="OUT"/>
+      <play vh="V" time="00:23" uni="12" team="ITH" checkname="BRADY,LAURENCE" action="SUB" type="IN"/>
+      <play vh="V" time="00:23" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="GOOD" type="FT" vscore="80" hscore="84"/>
+      <play vh="V" time="00:23" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="SUB" type="OUT"/>
+      <play vh="V" time="00:23" uni="00" team="ITH" checkname="WISSINK,COLE" action="SUB" type="IN"/>
+      <play vh="V" time="00:18" uni="00" team="ITH" checkname="WISSINK,COLE" action="FOUL"/>
+      <play vh="H" time="00:18" uni="03" team="HOB" checkname="HEALY,PAT" action="GOOD" type="FT" vscore="80" hscore="85"/>
+      <play vh="V" time="00:18" uni="00" team="ITH" checkname="WISSINK,COLE" action="SUB" type="OUT"/>
+      <play vh="V" time="00:18" uni="12" team="ITH" checkname="BRADY,LAURENCE" action="SUB" type="OUT"/>
+      <play vh="V" time="00:18" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="SUB" type="IN"/>
+      <play vh="V" time="00:18" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="IN"/>
+      <play vh="H" time="00:18" uni="03" team="HOB" checkname="HEALY,PAT" action="GOOD" type="FT" vscore="80" hscore="86"/>
+      <play vh="H" time="00:18" uni="11" team="HOB" checkname="MORDI,ALLEN" action="SUB" type="OUT"/>
+      <play vh="H" time="00:18" uni="12" team="HOB" checkname="BERGERON,GABRIEL" action="SUB" type="IN"/>
+      <play vh="V" time="00:10" uni="01" team="ITH" checkname="WENDELL,LOGAN" action="MISS" type="JUMPER"/>
+      <play vh="H" time="00:08" uni="TM" team="HOB" checkname="TEAM" action="REBOUND" type="DEADB"/>
+      <play vh="V" time="00:08" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="FOUL"/>
+      <play vh="H" time="00:08" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="MISS" type="FT"/>
+      <play vh="H" time="00:08" uni="TM" team="HOB" checkname="TEAM" action="REBOUND" type="DEADB"/>
+      <play vh="H" time="00:08" uni="55" team="HOB" checkname="RODGERS,AIDAN" action="GOOD" type="FT" vscore="80" hscore="87"/>
+      <play vh="V" time="00:08" uni="30" team="ITH" checkname="LEYSATH,CHRIS" action="SUB" type="OUT"/>
+      <play vh="V" time="00:08" uni="14" team="ITH" checkname="PENDERS,ALEX" action="SUB" type="IN"/>
+      <play vh="H" time="00:08" uni="TM" team="HOB" checkname="TEAM" action="TIMEOUT" type="TEAM"/>
+      <play vh="V" time="00:03" uni="02" team="ITH" checkname="O'NEAL,JAYLON" action="MISS" type="3PTR"/>
+      <play vh="H" time="00:00" uni="04" team="HOB" checkname="MOESCH,ALEX" action="REBOUND" type="DEF"/>
+      <clock time="00:00"/>
+    </period>
+  </plays>
+</bbgame>

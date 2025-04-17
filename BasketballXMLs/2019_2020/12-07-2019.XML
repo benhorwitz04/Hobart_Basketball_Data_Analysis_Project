@@ -1,0 +1,522 @@
+<bbgame source="Genius sports" version="0.0.1" generated="Apr 9, 2025">
+  <venue gameid="HOB-BRD" visid="HOB" visname="Hobart" homeid="BRD" homename="Bard" date="12/7/2019" location="Stevenson Athletic Center, Annandale-on-Hudson, NY" time="4:00 pm" attend="85" leaguegame="Y" neutralgame="N" nitegame="Y" postseason="N" schednote="">
+    <officials text="Randolph Ricketts IV, Ahmed Yaseen, Paul Rickard"/>
+    <rules prds="2" minutes="20" minutesot="5" fouls="5" qh="H"/>
+  </venue>
+  <status complete="Y" manualbox="Y"/>
+  <team vh="V" id="HOB" code="282" name="Hobart" record="6-1,2-0 Liberty League">
+    <linescore line="24, 49" score="73">
+      <lineprd prd="1" score="24"/>
+      <lineprd prd="2" score="49"/>
+    </linescore>
+    <totals>
+      <stats fgm="27" fga="58" fgm3="8" fga3="23" ftm="11" fta="13" tp="73" blk="3" stl="5" ast="18" min="200" oreb="12" dreb="31" treb="43" pf="10" tf="0" to="11" dq="0" deadball="0,0"/>
+      <special vh="V" pts_to="16" pts_ch2="17" pts_paint="38" pts_fastb="6" pts_bench="21" ties="2" leads="6"/>
+    </totals>
+    <player uni="01" code="01" name="Fleurizard,Edens" checkname="FLEURIZARD,EDENS" gp="1" gs="1" pos="F">
+      <stats fgm="3" fga="4" fgm3="0" fga3="0" ftm="3" fta="4" tp="9" blk="1" stl="0" ast="1" min="16" oreb="3" dreb="4" treb="7" pf="0" tf="0" to="0" dq="0"/>
+    </player>
+    <player uni="03" code="03" name="Sy,Julien" checkname="SY,JULIEN" gp="0" pos="G"/>
+    <player uni="04" code="04" name="Lescoe,Tucker" checkname="LESCOE,TUCKER" gp="1" gs="1" pos="G">
+      <stats fgm="5" fga="13" fgm3="3" fga3="11" ftm="0" fta="0" tp="13" blk="0" stl="1" ast="4" min="30" oreb="1" dreb="4" treb="5" pf="2" tf="0" to="1" dq="0"/>
+    </player>
+    <player uni="05" code="05" name="Corrales Marco,David" checkname="CORRALES MARCO,DAVID" gp="1" pos="G">
+      <stats fgm="1" fga="1" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="2" min="15" oreb="1" dreb="3" treb="4" pf="0" tf="0" to="0" dq="0"/>
+    </player>
+    <player uni="10" code="10" name="Lynch,Andrew" checkname="LYNCH,ANDREW" gp="1" pos="G">
+      <stats fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="6" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"/>
+    </player>
+    <player uni="11" code="11" name="Walker,Patrick" checkname="WALKER,PATRICK" gp="1" pos="G">
+      <stats fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="1" ast="1" min="12" oreb="1" dreb="1" treb="2" pf="0" tf="0" to="0" dq="0"/>
+    </player>
+    <player uni="12" code="12" name="Dow,Trevor" checkname="DOW,TREVOR" gp="0" pos="G"/>
+    <player uni="13" code="13" name="Owenby,Chandler" checkname="OWENBY,CHANDLER" gp="1" pos="F">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" dq="0"/>
+    </player>
+    <player uni="14" code="14" name="Cook,Daniel" checkname="COOK,DANIEL" gp="1" gs="1" pos="F">
+      <stats fgm="8" fga="14" fgm3="1" fga3="2" ftm="0" fta="0" tp="17" blk="1" stl="0" ast="2" min="29" oreb="3" dreb="4" treb="7" pf="2" tf="0" to="1" dq="0"/>
+    </player>
+    <player uni="15" code="15" name="Coulter,Oskar" checkname="COULTER,OSKAR" gp="1" pos="F">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="1" treb="1" pf="2" tf="0" to="2" dq="0"/>
+    </player>
+    <player uni="20" code="20" name="Masino,Dan" checkname="MASINO,DAN" gp="1" gs="1" pos="G">
+      <stats fgm="3" fga="10" fgm3="2" fga3="6" ftm="2" fta="2" tp="10" blk="0" stl="1" ast="6" min="33" oreb="0" dreb="7" treb="7" pf="0" tf="0" to="2" dq="0"/>
+    </player>
+    <player uni="22" code="22" name="Allen,Sam" checkname="ALLEN,SAM" gp="0" pos="F"/>
+    <player uni="23" code="23" name="Preston,Jake" checkname="PRESTON,JAKE" gp="1" gs="1" pos="G">
+      <stats fgm="1" fga="2" fgm3="1" fga3="2" ftm="0" fta="0" tp="3" blk="0" stl="1" ast="0" min="11" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="1" dq="0"/>
+    </player>
+    <player uni="24" code="24" name="Washington-Lobdell,Jaylon" checkname="WASHINGTON-LOBDELL,JAYLON" gp="0" pos="G"/>
+    <player uni="25" code="25" name="Meshanic,Jackson" checkname="MESHANIC,JACKSON" gp="1" pos="F">
+      <stats fgm="4" fga="9" fgm3="0" fga3="0" ftm="5" fta="5" tp="13" blk="1" stl="0" ast="0" min="24" oreb="0" dreb="4" treb="4" pf="0" tf="0" to="1" dq="0"/>
+    </player>
+    <player uni="51" code="51" name="Rivera-Torres,Nic" checkname="RIVERA-TORRES,NIC" gp="1" pos="F">
+      <stats fgm="1" fga="3" fgm3="0" fga3="0" ftm="1" fta="2" tp="3" blk="0" stl="1" ast="2" min="20" oreb="0" dreb="1" treb="1" pf="2" tf="0" to="2" dq="0"/>
+    </player>
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" gp="1">
+      <stats oreb="3" dreb="2" treb="5" pf="0" tf="0" to="0" dq="0"/>
+    </player>
+  </team>
+  <team vh="H" id="BRD" code="962" name="Bard" record="0-7,0-2 Liberty League">
+    <linescore line="23, 30" score="53">
+      <lineprd prd="1" score="23"/>
+      <lineprd prd="2" score="30"/>
+    </linescore>
+    <totals>
+      <stats fgm="20" fga="51" fgm3="6" fga3="23" ftm="7" fta="10" tp="53" blk="3" stl="7" ast="8" min="200" oreb="3" dreb="21" treb="24" pf="13" tf="0" to="11" dq="0" deadball="0,0"/>
+      <special vh="H" pts_to="12" pts_ch2="0" pts_paint="20" pts_fastb="2" pts_bench="31" ties="2" leads="6"/>
+    </totals>
+    <player uni="00" code="00" name="Sofroniou,Avo" checkname="SOFRONIOU,AVO" gp="1" pos="F">
+      <stats fgm="4" fga="15" fgm3="1" fga3="6" ftm="2" fta="4" tp="11" blk="1" stl="2" ast="1" min="31" oreb="0" dreb="6" treb="6" pf="4" tf="0" to="4" dq="0"/>
+    </player>
+    <player uni="02" code="02" name="Psarras,Stefanos" checkname="PSARRAS,STEFANOS" gp="1" pos="G">
+      <stats fgm="4" fga="6" fgm3="2" fga3="3" ftm="0" fta="0" tp="10" blk="0" stl="0" ast="1" min="30" oreb="0" dreb="4" treb="4" pf="3" tf="0" to="1" dq="0"/>
+    </player>
+    <player uni="04" code="04" name="Pacheco,Andres" checkname="PACHECO,ANDRES" gp="1" gs="1" pos="G">
+      <stats fgm="1" fga="4" fgm3="0" fga3="2" ftm="2" fta="2" tp="4" blk="0" stl="2" ast="1" min="18" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"/>
+    </player>
+    <player uni="05" code="05" name="Le,Kevin" checkname="LE,KEVIN" gp="1" gs="1" pos="G">
+      <stats fgm="1" fga="3" fgm3="0" fga3="0" ftm="1" fta="2" tp="3" blk="0" stl="0" ast="2" min="30" oreb="0" dreb="1" treb="1" pf="2" tf="0" to="2" dq="0"/>
+    </player>
+    <player uni="11" code="11" name="Mohamed,Waseer" checkname="MOHAMED,WASEER" gp="1" gs="1" pos="G">
+      <stats fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"/>
+    </player>
+    <player uni="21" code="21" name="Koulouris,Stamatis" checkname="KOULOURIS,STAMATIS" gp="1" pos="F">
+      <stats fgm="4" fga="9" fgm3="0" fga3="4" ftm="2" fta="2" tp="10" blk="2" stl="2" ast="2" min="26" oreb="0" dreb="3" treb="3" pf="3" tf="0" to="0" dq="0"/>
+    </player>
+    <player uni="23" code="23" name="Bruns,Tyler" checkname="BRUNS,TYLER" gp="1" gs="1" pos="F">
+      <stats fgm="1" fga="4" fgm3="1" fga3="3" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="1" min="26" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"/>
+    </player>
+    <player uni="24" code="24" name="Neuman,Eli" checkname="NEUMAN,ELI" gp="0" pos="G"/>
+    <player uni="33" code="33" name="Harris,Elliot" checkname="HARRIS,ELLIOT" gp="1" gs="1" pos="G">
+      <stats fgm="5" fga="9" fgm3="2" fga3="4" ftm="0" fta="0" tp="12" blk="0" stl="1" ast="0" min="36" oreb="1" dreb="5" treb="6" pf="1" tf="0" to="2" dq="0"/>
+    </player>
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" gp="1">
+      <stats oreb="2" dreb="0" treb="2" pf="0" tf="0" to="2" dq="0"/>
+    </player>
+  </team>
+  <plays format="tokens">
+    <period number="1" time="20:00">
+      <special vh="H" pts_to="7" pts_ch2="0" pts_paint="10" pts_fastb="0" pts_bench="14" ties="2" leads="6"/>
+      <special vh="V" pts_to="9" pts_ch2="4" pts_paint="14" pts_fastb="2" pts_bench="4" ties="2" leads="6"/>
+      <summary vh="H" fgm="9" fga="23" fgm3="1" fga3="10" ftm="4" fta="6" blk="1" stl="3" ast="2" oreb="3" dreb="12" treb="15" pf="6" tf="0" to="7"/>
+      <summary vh="V" fgm="9" fga="26" fgm3="2" fga3="11" ftm="4" fta="4" blk="3" stl="3" ast="6" oreb="5" dreb="13" treb="18" pf="6" tf="0" to="7"/>
+      <play vh="V" time="19:43" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="MISS" type="3PTR"/>
+      <play vh="H" time="19:38" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="REBOUND" type="DEF"/>
+      <play vh="H" time="19:18" uni="05" team="BRD" checkname="LE,KEVIN" action="TURNOVER"/>
+      <play vh="V" time="19:05" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="GOOD" type="3PTR" vscore="3" hscore="0"/>
+      <play vh="V" time="19:05" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="ASSIST"/>
+      <play vh="H" time="18:39" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="GOOD" type="JUMPER" vscore="3" hscore="2"/>
+      <play vh="V" time="18:06" uni="14" team="HOB" checkname="COOK,DANIEL" action="GOOD" type="JUMPER" paint="Y" vscore="5" hscore="2"/>
+      <play vh="H" time="17:42" uni="11" team="BRD" checkname="MOHAMED,WASEER" action="MISS" type="3PTR"/>
+      <play vh="V" time="17:39" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="REBOUND" type="DEF"/>
+      <play vh="V" time="17:29" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="MISS" type="3PTR"/>
+      <play vh="H" time="17:26" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="REBOUND" type="DEF"/>
+      <play vh="H" time="17:13" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="MISS" type="JUMPER" paint="Y"/>
+      <play vh="V" time="17:07" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="REBOUND" type="DEF"/>
+      <play vh="V" time="17:02" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="MISS" type="3PTR"/>
+      <play vh="H" time="16:58" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="REBOUND" type="DEF"/>
+      <play vh="H" time="16:58" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="SUB" type="OUT"/>
+      <play vh="H" time="16:58" uni="11" team="BRD" checkname="MOHAMED,WASEER" action="SUB" type="OUT"/>
+      <play vh="H" time="16:58" uni="23" team="BRD" checkname="BRUNS,TYLER" action="SUB" type="OUT"/>
+      <play vh="H" time="16:58" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="SUB" type="IN"/>
+      <play vh="H" time="16:58" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="SUB" type="IN"/>
+      <play vh="H" time="16:58" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="SUB" type="IN"/>
+      <play vh="H" time="16:31" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="MISS" type="3PTR"/>
+      <play vh="V" time="16:27" uni="20" team="HOB" checkname="MASINO,DAN" action="REBOUND" type="DEF"/>
+      <play vh="V" time="16:24" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="7" hscore="2"/>
+      <play vh="V" time="16:24" uni="20" team="HOB" checkname="MASINO,DAN" action="ASSIST"/>
+      <play vh="H" time="15:57" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="MISS" type="3PTR"/>
+      <play vh="V" time="15:54" uni="14" team="HOB" checkname="COOK,DANIEL" action="REBOUND" type="DEF"/>
+      <play vh="H" time="15:47" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="FOUL"/>
+      <play vh="V" time="15:47" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="SUB" type="OUT"/>
+      <play vh="V" time="15:47" uni="23" team="HOB" checkname="PRESTON,JAKE" action="SUB" type="OUT"/>
+      <play vh="V" time="15:47" uni="11" team="HOB" checkname="WALKER,PATRICK" action="SUB" type="IN"/>
+      <play vh="V" time="15:47" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="SUB" type="IN"/>
+      <play vh="V" time="15:42" uni="14" team="HOB" checkname="COOK,DANIEL" action="GOOD" type="LAYUP" paint="Y" vscore="9" hscore="2"/>
+      <play vh="V" time="15:42" uni="11" team="HOB" checkname="WALKER,PATRICK" action="ASSIST"/>
+      <play vh="H" time="15:26" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="TURNOVER"/>
+      <play vh="V" time="15:26" uni="11" team="HOB" checkname="WALKER,PATRICK" action="STEAL"/>
+      <play vh="V" time="15:21" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="15:19" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="REBOUND" type="DEF"/>
+      <play vh="V" time="15:07" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="FOUL"/>
+      <play vh="H" time="15:07" uni="05" team="BRD" checkname="LE,KEVIN" action="GOOD" type="FT" vscore="9" hscore="3"/>
+      <play vh="V" time="15:07" uni="20" team="HOB" checkname="MASINO,DAN" action="SUB" type="OUT"/>
+      <play vh="V" time="15:07" uni="05" team="HOB" checkname="CORRALES MARCO,DAVID" action="SUB" type="IN"/>
+      <play vh="H" time="15:06" uni="05" team="BRD" checkname="LE,KEVIN" action="MISS" type="FT"/>
+      <play vh="V" time="15:04" uni="14" team="HOB" checkname="COOK,DANIEL" action="REBOUND" type="DEF"/>
+      <play vh="V" time="14:48" uni="14" team="HOB" checkname="COOK,DANIEL" action="GOOD" type="3PTR" vscore="12" hscore="3"/>
+      <play vh="V" time="14:48" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="ASSIST"/>
+      <play vh="H" time="14:24" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="14:24" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="BLOCK"/>
+      <play vh="H" time="14:24" uni="TM" team="BRD" checkname="TEAM" action="REBOUND" type="OFF"/>
+      <play vh="V" time="14:19" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="SUB" type="OUT"/>
+      <play vh="V" time="14:19" uni="10" team="HOB" checkname="LYNCH,ANDREW" action="SUB" type="IN"/>
+      <play vh="H" time="14:16" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="MISS" type="3PTR"/>
+      <play vh="V" time="14:13" uni="05" team="HOB" checkname="CORRALES MARCO,DAVID" action="REBOUND" type="DEF"/>
+      <play vh="V" time="14:03" uni="14" team="HOB" checkname="COOK,DANIEL" action="TURNOVER"/>
+      <play vh="H" time="14:03" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="STEAL"/>
+      <play vh="H" time="13:49" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="GOOD" type="3PTR" vscore="12" hscore="6"/>
+      <play vh="V" time="13:25" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="TURNOVER"/>
+      <play vh="H" time="13:25" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="STEAL"/>
+      <play vh="H" time="13:05" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="MISS" type="JUMPER"/>
+      <play vh="V" time="13:02" uni="11" team="HOB" checkname="WALKER,PATRICK" action="REBOUND" type="DEF"/>
+      <play vh="V" time="12:42" uni="14" team="HOB" checkname="COOK,DANIEL" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="12:39" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="REBOUND" type="DEF"/>
+      <play vh="H" time="12:25" uni="05" team="BRD" checkname="LE,KEVIN" action="GOOD" type="LAYUP" paint="Y" vscore="12" hscore="8"/>
+      <play vh="H" time="12:13" uni="05" team="BRD" checkname="LE,KEVIN" action="FOUL"/>
+      <play vh="H" time="12:13" uni="05" team="BRD" checkname="LE,KEVIN" action="SUB" type="OUT"/>
+      <play vh="H" time="12:13" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="SUB" type="OUT"/>
+      <play vh="H" time="12:13" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="SUB" type="IN"/>
+      <play vh="H" time="12:13" uni="23" team="BRD" checkname="BRUNS,TYLER" action="SUB" type="IN"/>
+      <play vh="V" time="12:13" uni="14" team="HOB" checkname="COOK,DANIEL" action="SUB" type="OUT"/>
+      <play vh="V" time="12:13" uni="15" team="HOB" checkname="COULTER,OSKAR" action="SUB" type="IN"/>
+      <play vh="V" time="12:05" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="12:05" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="BLOCK"/>
+      <play vh="H" time="11:54" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="REBOUND" type="DEF"/>
+      <play vh="H" time="11:49" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="GOOD" type="LAYUP" paint="Y" vscore="12" hscore="10"/>
+      <play vh="V" time="11:25" uni="10" team="HOB" checkname="LYNCH,ANDREW" action="MISS" type="3PTR"/>
+      <play vh="V" time="11:22" uni="11" team="HOB" checkname="WALKER,PATRICK" action="REBOUND" type="OFF"/>
+      <play vh="H" time="11:14" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="FOUL"/>
+      <play vh="V" time="11:14" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="SUB" type="OUT"/>
+      <play vh="V" time="11:14" uni="13" team="HOB" checkname="OWENBY,CHANDLER" action="SUB" type="IN"/>
+      <play vh="V" time="11:02" uni="15" team="HOB" checkname="COULTER,OSKAR" action="FOUL"/>
+      <play vh="V" time="11:02" uni="15" team="HOB" checkname="COULTER,OSKAR" action="TURNOVER"/>
+      <play vh="H" time="10:43" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="MISS" type="3PTR"/>
+      <play vh="V" time="10:38" uni="15" team="HOB" checkname="COULTER,OSKAR" action="REBOUND" type="DEF"/>
+      <play vh="V" time="10:34" uni="15" team="HOB" checkname="COULTER,OSKAR" action="TURNOVER"/>
+      <play vh="H" time="10:34" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="SUB" type="OUT"/>
+      <play vh="H" time="10:34" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="SUB" type="OUT"/>
+      <play vh="H" time="10:34" uni="05" team="BRD" checkname="LE,KEVIN" action="SUB" type="IN"/>
+      <play vh="H" time="10:34" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="SUB" type="IN"/>
+      <play vh="H" time="10:34" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="SUB" type="OUT"/>
+      <play vh="H" time="10:34" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="SUB" type="IN"/>
+      <play vh="V" time="10:12" uni="15" team="HOB" checkname="COULTER,OSKAR" action="FOUL"/>
+      <play vh="H" time="10:12" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="GOOD" type="FT" vscore="12" hscore="11"/>
+      <play vh="V" time="10:12" uni="05" team="HOB" checkname="CORRALES MARCO,DAVID" action="SUB" type="OUT"/>
+      <play vh="V" time="10:12" uni="10" team="HOB" checkname="LYNCH,ANDREW" action="SUB" type="OUT"/>
+      <play vh="V" time="10:12" uni="15" team="HOB" checkname="COULTER,OSKAR" action="SUB" type="OUT"/>
+      <play vh="V" time="10:12" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="SUB" type="IN"/>
+      <play vh="V" time="10:12" uni="20" team="HOB" checkname="MASINO,DAN" action="SUB" type="IN"/>
+      <play vh="V" time="10:12" uni="23" team="HOB" checkname="PRESTON,JAKE" action="SUB" type="IN"/>
+      <play vh="H" time="10:12" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="GOOD" type="FT" vscore="12" hscore="12"/>
+      <play vh="V" time="09:46" uni="23" team="HOB" checkname="PRESTON,JAKE" action="MISS" type="3PTR"/>
+      <play vh="H" time="09:43" uni="23" team="BRD" checkname="BRUNS,TYLER" action="REBOUND" type="DEF"/>
+      <play vh="H" time="09:26" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="GOOD" type="LAYUP" paint="Y" vscore="12" hscore="14"/>
+      <play vh="H" time="09:26" uni="23" team="BRD" checkname="BRUNS,TYLER" action="ASSIST"/>
+      <play vh="V" time="09:06" uni="13" team="HOB" checkname="OWENBY,CHANDLER" action="TURNOVER"/>
+      <play vh="H" time="09:06" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="STEAL"/>
+      <play vh="H" time="08:48" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="GOOD" type="JUMPER" vscore="12" hscore="16"/>
+      <play vh="V" time="08:47" uni="TM" team="HOB" checkname="TEAM" action="TIMEOUT" type="30SEC"/>
+      <play vh="H" time="08:47" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="SUB" type="OUT"/>
+      <play vh="H" time="08:47" uni="23" team="BRD" checkname="BRUNS,TYLER" action="SUB" type="OUT"/>
+      <play vh="H" time="08:47" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="SUB" type="IN"/>
+      <play vh="H" time="08:47" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="SUB" type="IN"/>
+      <play vh="V" time="08:47" uni="11" team="HOB" checkname="WALKER,PATRICK" action="SUB" type="OUT"/>
+      <play vh="V" time="08:47" uni="13" team="HOB" checkname="OWENBY,CHANDLER" action="SUB" type="OUT"/>
+      <play vh="V" time="08:47" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="SUB" type="IN"/>
+      <play vh="V" time="08:47" uni="51" team="HOB" checkname="RIVERA-TORRES,NIC" action="SUB" type="IN"/>
+      <play vh="V" time="08:29" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="MISS" type="3PTR"/>
+      <play vh="H" time="08:24" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="REBOUND" type="DEF"/>
+      <play vh="H" time="08:00" uni="05" team="BRD" checkname="LE,KEVIN" action="TURNOVER"/>
+      <play vh="V" time="08:00" uni="20" team="HOB" checkname="MASINO,DAN" action="STEAL"/>
+      <play vh="H" time="07:56" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="FOUL"/>
+      <play vh="V" time="07:56" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="GOOD" type="FT" vscore="13" hscore="16"/>
+      <play vh="V" time="07:56" uni="23" team="HOB" checkname="PRESTON,JAKE" action="SUB" type="OUT"/>
+      <play vh="V" time="07:56" uni="14" team="HOB" checkname="COOK,DANIEL" action="SUB" type="IN"/>
+      <play vh="V" time="07:56" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="GOOD" type="FT" vscore="14" hscore="16"/>
+      <play vh="V" time="07:44" uni="14" team="HOB" checkname="COOK,DANIEL" action="FOUL"/>
+      <play vh="H" time="07:44" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="GOOD" type="FT" vscore="14" hscore="17"/>
+      <play vh="H" time="07:44" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="MISS" type="FT"/>
+      <play vh="V" time="07:43" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="REBOUND" type="DEF"/>
+      <play vh="V" time="07:26" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="07:20" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="GOOD" type="LAYUP" paint="Y" vscore="16" hscore="17"/>
+      <play vh="V" time="07:20" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="REBOUND" type="OFF"/>
+      <play vh="H" time="07:18" uni="05" team="BRD" checkname="LE,KEVIN" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="07:18" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="BLOCK"/>
+      <play vh="H" time="07:18" uni="TM" team="BRD" checkname="TEAM" action="REBOUND" type="OFF"/>
+      <play vh="H" time="07:18" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="SUB" type="OUT"/>
+      <play vh="H" time="07:18" uni="05" team="BRD" checkname="LE,KEVIN" action="SUB" type="OUT"/>
+      <play vh="H" time="07:18" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="SUB" type="IN"/>
+      <play vh="H" time="07:18" uni="23" team="BRD" checkname="BRUNS,TYLER" action="SUB" type="IN"/>
+      <play vh="H" time="07:07" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="MISS" type="3PTR"/>
+      <play vh="V" time="07:03" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="REBOUND" type="DEF"/>
+      <play vh="V" time="06:42" uni="14" team="HOB" checkname="COOK,DANIEL" action="MISS" type="3PTR"/>
+      <play vh="V" time="06:37" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="REBOUND" type="OFF"/>
+      <play vh="V" time="06:34" uni="20" team="HOB" checkname="MASINO,DAN" action="TURNOVER"/>
+      <play vh="H" time="06:13" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="TURNOVER"/>
+      <play vh="V" time="06:13" uni="51" team="HOB" checkname="RIVERA-TORRES,NIC" action="STEAL"/>
+      <play vh="V" time="06:07" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="MISS" type="3PTR"/>
+      <play vh="V" time="06:05" uni="TM" team="HOB" checkname="TEAM" action="REBOUND" type="OFF"/>
+      <play vh="V" time="06:02" uni="51" team="HOB" checkname="RIVERA-TORRES,NIC" action="GOOD" type="LAYUP" paint="Y" vscore="18" hscore="17"/>
+      <play vh="V" time="06:02" uni="20" team="HOB" checkname="MASINO,DAN" action="ASSIST"/>
+      <play vh="H" time="05:39" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="GOOD" type="LAYUP" paint="Y" vscore="18" hscore="19"/>
+      <play vh="V" time="05:19" uni="14" team="HOB" checkname="COOK,DANIEL" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="05:17" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="REBOUND" type="DEF"/>
+      <play vh="H" time="05:01" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="TURNOVER"/>
+      <play vh="V" time="05:00" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="SUB" type="OUT"/>
+      <play vh="V" time="05:00" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="SUB" type="IN"/>
+      <play vh="V" time="04:38" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="04:34" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="REBOUND" type="DEF"/>
+      <play vh="H" time="04:08" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="MISS" type="3PTR"/>
+      <play vh="H" time="04:02" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="REBOUND" type="OFF"/>
+      <play vh="H" time="03:59" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="03:59" uni="14" team="HOB" checkname="COOK,DANIEL" action="BLOCK"/>
+      <play vh="V" time="03:53" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="REBOUND" type="DEF"/>
+      <play vh="H" time="03:52" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="FOUL"/>
+      <play vh="H" time="03:52" uni="TM" team="BRD" checkname="TEAM" action="TIMEOUT" type="30SEC"/>
+      <play vh="H" time="03:52" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="SUB" type="OUT"/>
+      <play vh="H" time="03:52" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="SUB" type="OUT"/>
+      <play vh="H" time="03:52" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="SUB" type="IN"/>
+      <play vh="H" time="03:52" uni="05" team="BRD" checkname="LE,KEVIN" action="SUB" type="IN"/>
+      <play vh="V" time="03:52" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="GOOD" type="FT" vscore="19" hscore="19"/>
+      <play vh="V" time="03:52" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="GOOD" type="FT" vscore="20" hscore="19"/>
+      <play vh="H" time="03:36" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="MISS" type="3PTR"/>
+      <play vh="V" time="03:31" uni="51" team="HOB" checkname="RIVERA-TORRES,NIC" action="REBOUND" type="DEF"/>
+      <play vh="V" time="03:19" uni="14" team="HOB" checkname="COOK,DANIEL" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="03:15" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="REBOUND" type="DEF"/>
+      <play vh="H" time="03:00" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="GOOD" type="JUMPER" paint="Y" vscore="20" hscore="21"/>
+      <play vh="V" time="02:49" uni="20" team="HOB" checkname="MASINO,DAN" action="MISS" type="3PTR"/>
+      <play vh="V" time="02:47" uni="14" team="HOB" checkname="COOK,DANIEL" action="REBOUND" type="OFF"/>
+      <play vh="V" time="02:45" uni="14" team="HOB" checkname="COOK,DANIEL" action="GOOD" type="LAYUP" paint="Y" vscore="22" hscore="21"/>
+      <play vh="H" time="02:13" uni="TM" team="BRD" checkname="TEAM" action="TURNOVER"/>
+      <play vh="H" time="02:13" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="SUB" type="OUT"/>
+      <play vh="H" time="02:13" uni="23" team="BRD" checkname="BRUNS,TYLER" action="SUB" type="OUT"/>
+      <play vh="H" time="02:13" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="SUB" type="IN"/>
+      <play vh="H" time="02:13" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="SUB" type="IN"/>
+      <play vh="V" time="01:59" uni="51" team="HOB" checkname="RIVERA-TORRES,NIC" action="MISS" type="JUMPER"/>
+      <play vh="H" time="01:56" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="REBOUND" type="DEF"/>
+      <play vh="V" time="01:36" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="FOUL"/>
+      <play vh="V" time="01:36" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="SUB" type="OUT"/>
+      <play vh="V" time="01:36" uni="14" team="HOB" checkname="COOK,DANIEL" action="SUB" type="OUT"/>
+      <play vh="V" time="01:36" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="SUB" type="IN"/>
+      <play vh="V" time="01:36" uni="10" team="HOB" checkname="LYNCH,ANDREW" action="SUB" type="IN"/>
+      <play vh="H" time="01:21" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="MISS" type="3PTR"/>
+      <play vh="V" time="01:17" uni="20" team="HOB" checkname="MASINO,DAN" action="REBOUND" type="DEF"/>
+      <play vh="V" time="01:11" uni="20" team="HOB" checkname="MASINO,DAN" action="TURNOVER"/>
+      <play vh="H" time="00:43" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="FOUL"/>
+      <play vh="H" time="00:43" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="TURNOVER"/>
+      <play vh="H" time="00:43" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="SUB" type="OUT"/>
+      <play vh="H" time="00:43" uni="23" team="BRD" checkname="BRUNS,TYLER" action="SUB" type="IN"/>
+      <play vh="V" time="00:36" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="GOOD" type="LAYUP" paint="Y" vscore="24" hscore="21"/>
+      <play vh="V" time="00:36" uni="20" team="HOB" checkname="MASINO,DAN" action="ASSIST"/>
+      <play vh="V" time="00:15" uni="10" team="HOB" checkname="LYNCH,ANDREW" action="FOUL"/>
+      <play vh="H" time="00:00" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="GOOD" type="JUMPER" vscore="24" hscore="23"/>
+      <play vh="H" time="00:00" uni="05" team="BRD" checkname="LE,KEVIN" action="ASSIST"/>
+      <clock time="00:00"/>
+    </period>
+    <period number="2" time="20:00">
+      <special vh="H" pts_to="5" pts_ch2="0" pts_paint="10" pts_fastb="2" pts_bench="17" ties="0" leads="0"/>
+      <special vh="V" pts_to="7" pts_ch2="13" pts_paint="24" pts_fastb="4" pts_bench="17" ties="0" leads="0"/>
+      <summary vh="H" fgm="11" fga="28" fgm3="5" fga3="13" ftm="3" fta="4" blk="2" stl="4" ast="6" oreb="0" dreb="9" treb="9" pf="7" tf="0" to="4"/>
+      <summary vh="V" fgm="18" fga="32" fgm3="6" fga3="12" ftm="7" fta="9" blk="0" stl="2" ast="12" oreb="7" dreb="18" treb="25" pf="4" tf="0" to="4"/>
+      <play vh="H" time="20:00" uni="23" team="BRD" checkname="BRUNS,TYLER" action="SUB" type="OUT"/>
+      <play vh="H" time="20:00" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="SUB" type="IN"/>
+      <play vh="V" time="20:00" uni="10" team="HOB" checkname="LYNCH,ANDREW" action="SUB" type="OUT"/>
+      <play vh="V" time="20:00" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="SUB" type="OUT"/>
+      <play vh="V" time="20:00" uni="51" team="HOB" checkname="RIVERA-TORRES,NIC" action="SUB" type="OUT"/>
+      <play vh="V" time="20:00" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="SUB" type="IN"/>
+      <play vh="V" time="20:00" uni="14" team="HOB" checkname="COOK,DANIEL" action="SUB" type="IN"/>
+      <play vh="V" time="20:00" uni="23" team="HOB" checkname="PRESTON,JAKE" action="SUB" type="IN"/>
+      <play vh="H" time="19:52" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="TURNOVER"/>
+      <play vh="V" time="19:52" uni="23" team="HOB" checkname="PRESTON,JAKE" action="STEAL"/>
+      <play vh="V" time="19:23" uni="20" team="HOB" checkname="MASINO,DAN" action="MISS" type="3PTR"/>
+      <play vh="V" time="19:19" uni="14" team="HOB" checkname="COOK,DANIEL" action="REBOUND" type="OFF"/>
+      <play vh="V" time="19:18" uni="14" team="HOB" checkname="COOK,DANIEL" action="GOOD" type="LAYUP" paint="Y" vscore="26" hscore="23"/>
+      <play vh="H" time="18:55" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="TURNOVER"/>
+      <play vh="V" time="18:47" uni="20" team="HOB" checkname="MASINO,DAN" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="18:45" uni="TM" team="HOB" checkname="TEAM" action="REBOUND" type="OFF"/>
+      <play vh="V" time="18:37" uni="23" team="HOB" checkname="PRESTON,JAKE" action="GOOD" type="3PTR" vscore="29" hscore="23"/>
+      <play vh="V" time="18:37" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="ASSIST"/>
+      <play vh="H" time="18:19" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="GOOD" type="LAYUP" paint="Y" vscore="29" hscore="25"/>
+      <play vh="H" time="18:19" uni="05" team="BRD" checkname="LE,KEVIN" action="ASSIST"/>
+      <play vh="V" time="18:12" uni="14" team="HOB" checkname="COOK,DANIEL" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="31" hscore="25"/>
+      <play vh="V" time="18:12" uni="20" team="HOB" checkname="MASINO,DAN" action="ASSIST"/>
+      <play vh="H" time="17:58" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="GOOD" type="LAYUP" paint="Y" vscore="31" hscore="27"/>
+      <play vh="H" time="17:58" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="ASSIST"/>
+      <play vh="V" time="17:35" uni="20" team="HOB" checkname="MASINO,DAN" action="MISS" type="JUMPER"/>
+      <play vh="H" time="17:32" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="REBOUND" type="DEF"/>
+      <play vh="H" time="17:12" uni="05" team="BRD" checkname="LE,KEVIN" action="MISS" type="JUMPER"/>
+      <play vh="V" time="17:12" uni="TM" team="HOB" checkname="TEAM" action="REBOUND" type="DEF"/>
+      <play vh="V" time="16:56" uni="14" team="HOB" checkname="COOK,DANIEL" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="16:56" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="BLOCK"/>
+      <play vh="H" time="16:51" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="REBOUND" type="DEF"/>
+      <play vh="H" time="16:50" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="16:46" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="REBOUND" type="DEF"/>
+      <play vh="V" time="16:37" uni="20" team="HOB" checkname="MASINO,DAN" action="MISS" type="3PTR"/>
+      <play vh="V" time="16:33" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="REBOUND" type="OFF"/>
+      <play vh="H" time="16:33" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="FOUL"/>
+      <play vh="H" time="16:33" uni="TM" team="BRD" checkname="TEAM" action="TIMEOUT" type="30SEC"/>
+      <play vh="V" time="16:33" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="GOOD" type="FT" vscore="32" hscore="27"/>
+      <play vh="V" time="16:33" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="MISS" type="FT"/>
+      <play vh="H" time="16:31" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="REBOUND" type="DEF"/>
+      <play vh="V" time="16:09" uni="23" team="HOB" checkname="PRESTON,JAKE" action="FOUL"/>
+      <play vh="H" time="16:09" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="GOOD" type="FT" vscore="32" hscore="28"/>
+      <play vh="H" time="16:09" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="MISS" type="FT"/>
+      <play vh="V" time="16:09" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="REBOUND" type="DEF"/>
+      <play vh="H" time="16:09" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="FOUL"/>
+      <play vh="V" time="15:47" uni="23" team="HOB" checkname="PRESTON,JAKE" action="TURNOVER"/>
+      <play vh="H" time="15:47" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="STEAL"/>
+      <play vh="H" time="15:32" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="GOOD" type="3PTR" vscore="32" hscore="31"/>
+      <play vh="H" time="15:32" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="ASSIST"/>
+      <play vh="V" time="15:04" uni="20" team="HOB" checkname="MASINO,DAN" action="MISS" type="3PTR"/>
+      <play vh="V" time="14:59" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="REBOUND" type="OFF"/>
+      <play vh="H" time="14:57" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="FOUL"/>
+      <play vh="H" time="14:57" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="SUB" type="OUT"/>
+      <play vh="H" time="14:57" uni="05" team="BRD" checkname="LE,KEVIN" action="SUB" type="OUT"/>
+      <play vh="H" time="14:57" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="SUB" type="IN"/>
+      <play vh="H" time="14:57" uni="23" team="BRD" checkname="BRUNS,TYLER" action="SUB" type="IN"/>
+      <play vh="V" time="14:57" uni="23" team="HOB" checkname="PRESTON,JAKE" action="SUB" type="OUT"/>
+      <play vh="V" time="14:57" uni="51" team="HOB" checkname="RIVERA-TORRES,NIC" action="SUB" type="IN"/>
+      <play vh="V" time="14:43" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="GOOD" type="3PTR" vscore="35" hscore="31"/>
+      <play vh="V" time="14:43" uni="20" team="HOB" checkname="MASINO,DAN" action="ASSIST"/>
+      <play vh="V" time="14:23" uni="51" team="HOB" checkname="RIVERA-TORRES,NIC" action="FOUL"/>
+      <play vh="H" time="14:23" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="GOOD" type="FT" vscore="35" hscore="32"/>
+      <play vh="H" time="14:23" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="GOOD" type="FT" vscore="35" hscore="33"/>
+      <play vh="V" time="13:58" uni="51" team="HOB" checkname="RIVERA-TORRES,NIC" action="TURNOVER"/>
+      <play vh="H" time="13:58" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="STEAL"/>
+      <play vh="H" time="13:44" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="MISS" type="3PTR"/>
+      <play vh="V" time="13:41" uni="20" team="HOB" checkname="MASINO,DAN" action="REBOUND" type="DEF"/>
+      <play vh="H" time="13:33" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="FOUL"/>
+      <play vh="V" time="13:33" uni="20" team="HOB" checkname="MASINO,DAN" action="GOOD" type="FT" vscore="36" hscore="33"/>
+      <play vh="H" time="13:33" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="SUB" type="OUT"/>
+      <play vh="H" time="13:33" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="SUB" type="OUT"/>
+      <play vh="H" time="13:33" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="SUB" type="IN"/>
+      <play vh="H" time="13:33" uni="05" team="BRD" checkname="LE,KEVIN" action="SUB" type="IN"/>
+      <play vh="V" time="13:33" uni="01" team="HOB" checkname="FLEURIZARD,EDENS" action="SUB" type="OUT"/>
+      <play vh="V" time="13:33" uni="14" team="HOB" checkname="COOK,DANIEL" action="SUB" type="OUT"/>
+      <play vh="V" time="13:33" uni="11" team="HOB" checkname="WALKER,PATRICK" action="SUB" type="IN"/>
+      <play vh="V" time="13:33" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="SUB" type="IN"/>
+      <play vh="V" time="13:33" uni="20" team="HOB" checkname="MASINO,DAN" action="GOOD" type="FT" vscore="37" hscore="33"/>
+      <play vh="H" time="13:15" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="13:13" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="REBOUND" type="DEF"/>
+      <play vh="V" time="13:07" uni="11" team="HOB" checkname="WALKER,PATRICK" action="GOOD" type="LAYUP" paint="Y" vscore="39" hscore="33"/>
+      <play vh="V" time="13:07" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="ASSIST"/>
+      <play vh="H" time="12:38" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="MISS" type="3PTR"/>
+      <play vh="V" time="12:35" uni="20" team="HOB" checkname="MASINO,DAN" action="REBOUND" type="DEF"/>
+      <play vh="V" time="12:24" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="TURNOVER"/>
+      <play vh="H" time="12:24" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="STEAL"/>
+      <play vh="H" time="12:20" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="12:17" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="REBOUND" type="DEF"/>
+      <play vh="V" time="12:04" uni="20" team="HOB" checkname="MASINO,DAN" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="12:01" uni="05" team="BRD" checkname="LE,KEVIN" action="REBOUND" type="DEF"/>
+      <play vh="H" time="11:46" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="GOOD" type="JUMPER" vscore="39" hscore="35"/>
+      <play vh="V" time="11:30" uni="51" team="HOB" checkname="RIVERA-TORRES,NIC" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="11:26" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="REBOUND" type="DEF"/>
+      <play vh="H" time="11:11" uni="23" team="BRD" checkname="BRUNS,TYLER" action="GOOD" type="3PTR" vscore="39" hscore="38"/>
+      <play vh="H" time="11:11" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="ASSIST"/>
+      <play vh="V" time="10:54" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="GOOD" type="LAYUP" paint="Y" vscore="41" hscore="38"/>
+      <play vh="H" time="10:33" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="MISS" type="3PTR"/>
+      <play vh="V" time="10:29" uni="20" team="HOB" checkname="MASINO,DAN" action="REBOUND" type="DEF"/>
+      <play vh="V" time="10:28" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="10:28" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="BLOCK"/>
+      <play vh="V" time="10:28" uni="TM" team="HOB" checkname="TEAM" action="REBOUND" type="OFF"/>
+      <play vh="H" time="10:28" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="SUB" type="OUT"/>
+      <play vh="H" time="10:28" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="SUB" type="IN"/>
+      <play vh="V" time="10:28" uni="20" team="HOB" checkname="MASINO,DAN" action="SUB" type="OUT"/>
+      <play vh="V" time="10:28" uni="05" team="HOB" checkname="CORRALES MARCO,DAVID" action="SUB" type="IN"/>
+      <play vh="H" time="10:04" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="SUB" type="OUT"/>
+      <play vh="H" time="10:04" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="SUB" type="IN"/>
+      <play vh="V" time="10:00" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="GOOD" type="3PTR" vscore="44" hscore="38"/>
+      <play vh="H" time="09:41" uni="TM" team="BRD" checkname="TEAM" action="TIMEOUT" type="TEAM"/>
+      <play vh="H" time="09:41" uni="05" team="BRD" checkname="LE,KEVIN" action="SUB" type="OUT"/>
+      <play vh="H" time="09:41" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="SUB" type="IN"/>
+      <play vh="H" time="09:27" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="TURNOVER"/>
+      <play vh="V" time="09:27" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="STEAL"/>
+      <play vh="V" time="09:21" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="46" hscore="38"/>
+      <play vh="H" time="09:16" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="09:11" uni="05" team="HOB" checkname="CORRALES MARCO,DAVID" action="REBOUND" type="DEF"/>
+      <play vh="V" time="09:02" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="MISS" type="3PTR"/>
+      <play vh="H" time="08:59" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="REBOUND" type="DEF"/>
+      <play vh="V" time="08:38" uni="11" team="HOB" checkname="WALKER,PATRICK" action="SUB" type="OUT"/>
+      <play vh="V" time="08:38" uni="14" team="HOB" checkname="COOK,DANIEL" action="SUB" type="IN"/>
+      <play vh="V" time="08:38" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="SUB" type="OUT"/>
+      <play vh="V" time="08:38" uni="20" team="HOB" checkname="MASINO,DAN" action="SUB" type="IN"/>
+      <play vh="H" time="08:29" uni="TM" team="BRD" checkname="TEAM" action="TURNOVER"/>
+      <play vh="V" time="08:15" uni="51" team="HOB" checkname="RIVERA-TORRES,NIC" action="TURNOVER"/>
+      <play vh="H" time="08:15" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="STEAL"/>
+      <play vh="H" time="08:11" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="46" hscore="40"/>
+      <play vh="H" time="08:02" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="FOUL"/>
+      <play vh="V" time="08:02" uni="51" team="HOB" checkname="RIVERA-TORRES,NIC" action="GOOD" type="FT" vscore="47" hscore="40"/>
+      <play vh="V" time="08:02" uni="51" team="HOB" checkname="RIVERA-TORRES,NIC" action="MISS" type="FT"/>
+      <play vh="H" time="08:00" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="REBOUND" type="DEF"/>
+      <play vh="H" time="07:41" uni="23" team="BRD" checkname="BRUNS,TYLER" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="07:39" uni="05" team="HOB" checkname="CORRALES MARCO,DAVID" action="REBOUND" type="DEF"/>
+      <play vh="V" time="07:32" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="07:29" uni="14" team="HOB" checkname="COOK,DANIEL" action="REBOUND" type="OFF"/>
+      <play vh="V" time="07:28" uni="14" team="HOB" checkname="COOK,DANIEL" action="GOOD" type="LAYUP" paint="Y" vscore="49" hscore="40"/>
+      <play vh="H" time="07:13" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="07:11" uni="14" team="HOB" checkname="COOK,DANIEL" action="REBOUND" type="DEF"/>
+      <play vh="V" time="07:06" uni="20" team="HOB" checkname="MASINO,DAN" action="GOOD" type="LAYUP" paint="Y" vscore="51" hscore="40"/>
+      <play vh="H" time="07:04" uni="TM" team="BRD" checkname="TEAM" action="TIMEOUT" type="TEAM"/>
+      <play vh="H" time="07:04" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="SUB" type="OUT"/>
+      <play vh="H" time="07:04" uni="23" team="BRD" checkname="BRUNS,TYLER" action="SUB" type="OUT"/>
+      <play vh="H" time="07:04" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="SUB" type="IN"/>
+      <play vh="H" time="07:04" uni="05" team="BRD" checkname="LE,KEVIN" action="SUB" type="IN"/>
+      <play vh="V" time="06:58" uni="51" team="HOB" checkname="RIVERA-TORRES,NIC" action="FOUL"/>
+      <play vh="H" time="06:41" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="MISS" type="3PTR"/>
+      <play vh="V" time="06:37" uni="20" team="HOB" checkname="MASINO,DAN" action="REBOUND" type="DEF"/>
+      <play vh="V" time="06:26" uni="20" team="HOB" checkname="MASINO,DAN" action="GOOD" type="3PTR" vscore="54" hscore="40"/>
+      <play vh="V" time="06:26" uni="51" team="HOB" checkname="RIVERA-TORRES,NIC" action="ASSIST"/>
+      <play vh="V" time="06:01" uni="14" team="HOB" checkname="COOK,DANIEL" action="FOUL"/>
+      <play vh="H" time="06:01" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="SUB" type="OUT"/>
+      <play vh="H" time="06:01" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="SUB" type="OUT"/>
+      <play vh="H" time="06:01" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="SUB" type="IN"/>
+      <play vh="H" time="06:01" uni="23" team="BRD" checkname="BRUNS,TYLER" action="SUB" type="IN"/>
+      <play vh="H" time="05:59" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="MISS" type="3PTR"/>
+      <play vh="V" time="05:55" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="REBOUND" type="DEF"/>
+      <play vh="H" time="05:43" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="FOUL"/>
+      <play vh="V" time="05:42" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="GOOD" type="FT" vscore="55" hscore="40"/>
+      <play vh="V" time="05:42" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="GOOD" type="FT" vscore="56" hscore="40"/>
+      <play vh="H" time="05:15" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="GOOD" type="3PTR" vscore="56" hscore="43"/>
+      <play vh="H" time="05:15" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="ASSIST"/>
+      <play vh="V" time="04:58" uni="20" team="HOB" checkname="MASINO,DAN" action="GOOD" type="3PTR" vscore="59" hscore="43"/>
+      <play vh="V" time="04:58" uni="51" team="HOB" checkname="RIVERA-TORRES,NIC" action="ASSIST"/>
+      <play vh="H" time="04:35" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="GOOD" type="3PTR" vscore="59" hscore="46"/>
+      <play vh="V" time="04:15" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="GOOD" type="LAYUP" paint="Y" vscore="61" hscore="46"/>
+      <play vh="V" time="04:15" uni="05" team="HOB" checkname="CORRALES MARCO,DAVID" action="ASSIST"/>
+      <play vh="H" time="04:15" uni="05" team="BRD" checkname="LE,KEVIN" action="FOUL"/>
+      <play vh="H" time="04:15" uni="04" team="BRD" checkname="PACHECO,ANDRES" action="SUB" type="OUT"/>
+      <play vh="H" time="04:15" uni="05" team="BRD" checkname="LE,KEVIN" action="SUB" type="OUT"/>
+      <play vh="H" time="04:15" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="SUB" type="IN"/>
+      <play vh="H" time="04:15" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="SUB" type="IN"/>
+      <play vh="V" time="04:15" uni="51" team="HOB" checkname="RIVERA-TORRES,NIC" action="SUB" type="OUT"/>
+      <play vh="V" time="04:15" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="SUB" type="IN"/>
+      <play vh="V" time="04:15" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="GOOD" type="FT" vscore="62" hscore="46"/>
+      <play vh="H" time="04:00" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="V" time="03:58" uni="TM" team="HOB" checkname="TEAM" action="REBOUND" type="DEF"/>
+      <play vh="V" time="03:44" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="MISS" type="3PTR"/>
+      <play vh="H" time="03:40" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="REBOUND" type="DEF"/>
+      <play vh="H" time="03:35" uni="23" team="BRD" checkname="BRUNS,TYLER" action="MISS" type="3PTR"/>
+      <play vh="V" time="03:30" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="REBOUND" type="DEF"/>
+      <play vh="V" time="03:19" uni="14" team="HOB" checkname="COOK,DANIEL" action="MISS" type="LAYUP" paint="Y"/>
+      <play vh="H" time="03:16" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="REBOUND" type="DEF"/>
+      <play vh="H" time="03:15" uni="21" team="BRD" checkname="KOULOURIS,STAMATIS" action="SUB" type="OUT"/>
+      <play vh="H" time="03:15" uni="05" team="BRD" checkname="LE,KEVIN" action="SUB" type="IN"/>
+      <play vh="H" time="02:59" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="GOOD" type="JUMPER" paint="Y" vscore="62" hscore="48"/>
+      <play vh="V" time="02:46" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="GOOD" type="LAYUP" paint="Y" vscore="64" hscore="48"/>
+      <play vh="V" time="02:46" uni="14" team="HOB" checkname="COOK,DANIEL" action="ASSIST"/>
+      <play vh="H" time="02:18" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="MISS" type="3PTR"/>
+      <play vh="V" time="02:14" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="REBOUND" type="DEF"/>
+      <play vh="V" time="01:58" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="MISS" type="3PTR"/>
+      <play vh="V" time="01:54" uni="05" team="HOB" checkname="CORRALES MARCO,DAVID" action="REBOUND" type="OFF"/>
+      <play vh="V" time="01:50" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="GOOD" type="LAYUP" paint="Y" vscore="66" hscore="48"/>
+      <play vh="V" time="01:50" uni="20" team="HOB" checkname="MASINO,DAN" action="ASSIST"/>
+      <play vh="H" time="01:44" uni="TM" team="BRD" checkname="TEAM" action="TIMEOUT" type="TEAM"/>
+      <play vh="H" time="01:39" uni="00" team="BRD" checkname="SOFRONIOU,AVO" action="GOOD" type="LAYUP" paint="Y" vscore="66" hscore="50"/>
+      <play vh="H" time="01:39" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="ASSIST"/>
+      <play vh="V" time="01:22" uni="25" team="HOB" checkname="MESHANIC,JACKSON" action="GOOD" type="DUNK" paint="Y" vscore="68" hscore="50"/>
+      <play vh="V" time="01:22" uni="14" team="HOB" checkname="COOK,DANIEL" action="ASSIST"/>
+      <play vh="H" time="01:10" uni="33" team="BRD" checkname="HARRIS,ELLIOT" action="MISS" type="JUMPER"/>
+      <play vh="V" time="01:02" uni="14" team="HOB" checkname="COOK,DANIEL" action="REBOUND" type="DEF"/>
+      <play vh="V" time="00:47" uni="05" team="HOB" checkname="CORRALES MARCO,DAVID" action="GOOD" type="3PTR" vscore="71" hscore="50"/>
+      <play vh="V" time="00:47" uni="04" team="HOB" checkname="LESCOE,TUCKER" action="ASSIST"/>
+      <play vh="H" time="00:35" uni="23" team="BRD" checkname="BRUNS,TYLER" action="MISS" type="3PTR"/>
+      <play vh="V" time="00:32" uni="20" team="HOB" checkname="MASINO,DAN" action="REBOUND" type="DEF"/>
+      <play vh="V" time="00:24" uni="14" team="HOB" checkname="COOK,DANIEL" action="GOOD" type="LAYUP" paint="Y" vscore="73" hscore="50"/>
+      <play vh="V" time="00:24" uni="05" team="HOB" checkname="CORRALES MARCO,DAVID" action="ASSIST"/>
+      <play vh="H" time="00:08" uni="02" team="BRD" checkname="PSARRAS,STEFANOS" action="GOOD" type="3PTR" vscore="73" hscore="53"/>
+      <clock time="00:00"/>
+    </period>
+  </plays>
+</bbgame>
