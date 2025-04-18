@@ -53,7 +53,7 @@ As someone who considers himself an analytical coach, I was overjoyed from the o
 
 ## 🛠 The Analysis & Sample SQL Queries
 
-### Overall Success Summary
+### 1) Overall Success Summary
 ```sql
 SELECT 
     season,
@@ -61,5 +61,10 @@ SELECT
 FROM team_stats
 WHERE team_id = 'HOB'
 GROUP BY season;
+
+### 2) Overall Success Summary
+
+
+
 
 
