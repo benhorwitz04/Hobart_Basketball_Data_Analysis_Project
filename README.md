@@ -90,7 +90,8 @@ FROM monthly_summary
 WHERE month IN ('November', 'December', 'January', 'February', 'March')
 ORDER BY month_num;
 ```
-![hob_monthly_win_per](https://github.com/user-attachments/assets/6b359c2c-8cbf-442f-94b3-62e044d52b77)
+
+![hob_monthly_win_per](https://github.com/user-attachments/assets/3e9fdeb5-11bf-461b-aed8-052a6429d5cb)
 
 
 
