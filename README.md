@@ -91,8 +91,7 @@ WHERE month IN ('November', 'December', 'January', 'February', 'March')
 ORDER BY month_num;
 ```
 
-![hob_monthly_win_per](<img src="https://github.com/user-attachments/assets/e460c380-3d17-4a9d-9d14-42c019f757ec" alt="hob_monthly_win_per" width="400"/>
-)
+![hob_monthly_win_per](https://github.com/user-attachments/assets/b0d4de50-cab2-4643-ad0f-32699003f3c3)
 
 
 ### 2) Statistical Identity
