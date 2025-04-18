@@ -7,22 +7,22 @@ It includes a combination of SQL, Python scripting, and manual data validation t
 
 > 📄 [Download the Full Data Analysis Portfolio (PDF)](Hobart_Basketball_Data_Analysis_Portfolio.pdf)
 
----
-
-## 📝 Background
+## 📚 Background
 I currently serve as an assistant basketball coach for Hobart Basketball. One of the most exciting aspects of game preparation is the process of scouting opponents. When preparing for an upcoming scout, our coaching staff naturally tries to compile as much information as possible. A key part of that process involves gathering data and assembling a clear, objective picture of a team’s identity. While numbers are certainly not the entire story, they provide an unbiased foundation with large amounts of data to support the conclusions we draw.
 
 For years, obtaining advanced metrics and in-depth analysis has been a challenge for programs like Hobart at the Division III level. Historically, there was a barrier to accessing the type of analytics and breakdowns available at higher levels of basketball. However, in recent years, the enthusiasm for analyzing sports through a data-focused lens has grown significantly, and the tools, formulas, and understanding of advanced metrics have become much more accessible.
 
 As someone who considers himself an analytical coach, I was overjoyed from the outset of this project. The opportunity to provide value in a way that differentiates us from most programs at our level was exciting and motivating. I was eager to bring a more data-driven approach to our preparation and contribute a unique layer of insight to our program’s competitive strategy.
 
+> 📄 [Download the Full Data Analysis Portfolio (PDF)](Hobart_Basketball_Data_Analysis_Portfolio.pdf)
+
 ---
 
 ## 🏀 Included Reports
-- **Overall Success Summary (2019–2025)**: Wins, losses, month-by-month, home vs. away.
-- **Statistical Identity (2019–2025)**: Core tendencies across scoring, rebounding, and special teams.
+- **Overall Success Summary (2019–2025)**: Wins, losses, month-by-month, home vs. away, top wins/losses by opponent.
+- **Statistical Identity (2019–2025)**: Core tendencies across scoring, rebounding, special categories, and season comparisons.
 - **Back-to-Back Game Analysis (2019–2025)**: Comparing performance on second games of back-to-backs.
-- **Advanced Analytical Breakdown (2019–2025)**: Dean Oliver's Four Factors, advanced efficiency metrics.
+- **Advanced Analytical Breakdown (2019–2025)**: 20+ advanced efficiency metrics, Dean Oliver's Four Factors.
 
 ---
 
@@ -47,6 +47,7 @@ As someone who considers himself an analytical coach, I was overjoyed from the o
 - **Excel** (Manual Data Cleaning)
 - **Bricks** (Graphs and Visuals)
 - **VS Code** (Development Environment)
+- **ChatGPT** (Code revsion and construciton)
 
 ---
 
