@@ -96,6 +96,13 @@ ORDER BY month_num;
 
 ### 2) Statistical Identity
 
+season	pct_margin_points	pct_margin_fg_pct	pct_margin_fg3_pct	pct_margin_ft_pct	pct_margin_reb	pct_margin_ast	pct_margin_stl	pct_margin_blk	pct_margin_to
+2019 - 2020	14.9	22.3	22.6	8.9	41.1	41.0	-35.0	3.6	-31.7
+2021 - 2022	0.9	2.3	-6.1	1.4	21.1	2.6	-37.4	1.5	-21.9
+2022 - 2023	11.6	9.6	11.7	-9.6	41.9	26.0	-33.6	-46.5	-25.5
+2023 - 2024	6.5	1.6	-1.3	10.2	16.5	-9.0	17.3	-16.6	2.8
+2024 - 2025	4.9	3.7	1.5	-13.4	10.6	8.3	36.7	-9.1	13.6
+![image](https://github.com/user-attachments/assets/e6e59f67-8f69-403e-ac0d-03fe6bd5ee98)
 
 
 
