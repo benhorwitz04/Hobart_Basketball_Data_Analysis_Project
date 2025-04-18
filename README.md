@@ -1,13 +1,20 @@
 # Hobart Basketball Data Analysis Project (2019–2025)
 
 ## 📚 Project Overview
+This project analyzes Hobart Basketball's team performance from 2019 to 2025, using advanced metrics and data-driven insights to uncover team tendencies, strengths, and areas for growth.
+
+It includes a combination of SQL, Python scripting, and manual data validation to build a clean, reliable database from raw XML, PDF, and manual entry sources.
+
+> 📄 [Download the Full Data Analysis Portfolio (PDF)](Hobart_Basketball_Data_Analysis_Portfolio.pdf)
+
+---
+
+## 📝 Background
 I currently serve as an assistant basketball coach for Hobart Basketball. One of the most exciting aspects of game preparation is the process of scouting opponents. When preparing for an upcoming scout, our coaching staff naturally tries to compile as much information as possible. A key part of that process involves gathering data and assembling a clear, objective picture of a team’s identity. While numbers are certainly not the entire story, they provide an unbiased foundation with large amounts of data to support the conclusions we draw.
 
 For years, obtaining advanced metrics and in-depth analysis has been a challenge for programs like Hobart at the Division III level. Historically, there was a barrier to accessing the type of analytics and breakdowns available at higher levels of basketball. However, in recent years, the enthusiasm for analyzing sports through a data-focused lens has grown significantly, and the tools, formulas, and understanding of advanced metrics have become much more accessible.
 
 As someone who considers himself an analytical coach, I was overjoyed from the outset of this project. The opportunity to provide value in a way that differentiates us from most programs at our level was exciting and motivating. I was eager to bring a more data-driven approach to our preparation and contribute a unique layer of insight to our program’s competitive strategy.
-
-> 📄 [Download the Full Data Analysis Portfolio (PDF)](Hobart_Basketball_Data_Analysis_Portfolio.pdf)
 
 ---
 
