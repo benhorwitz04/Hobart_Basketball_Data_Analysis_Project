@@ -62,7 +62,9 @@ FROM team_stats
 WHERE team_id = 'HOB'
 GROUP BY season;
 
-### 2) Overall Success Summary
+### 2) Statistical Identity
+
+dsaf
 
 
 
