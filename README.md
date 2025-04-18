@@ -158,6 +158,19 @@ ORDER BY season;
 ### 3) Back-to-Back Game Analysis
 
 
+#### Key Highlights – Second Day B2B vs. Full Season
+| Metric             | Full Season | Second Day B2B | Margin Change | % Margin Change |
+|--------------------|-------------|----------------|---------------|-----------------|
+| Win %              | 66.7        | 75.0           | 8.3           | 12.5%           |
+| FTM                | 12.87       | 13.95          | 1.08          | 8.4%            |
+| FTA                | 18.87       | 19.98          | 1.11          | 5.9%            |
+| 3pt FG%            | 32.6        | 34.4           | 1.8           | 5.5%            |
+| Second Chance Pts  | 11.47       | 11.93          | 0.46          | 4.0%            |
+| Bench Points       | 21.43       | 22.09          | 0.66          | 3.1%            |
+| Turnovers          | 13.7        | 13.27          | 0.43          | 3.1%            |
+| FT %               | 68.2        | 69.9           | 1.7           | 2.5%            |
+
+
 
 ### 4) Advanced Analytical Breakdown
 
