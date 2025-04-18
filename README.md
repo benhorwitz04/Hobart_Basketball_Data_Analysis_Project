@@ -96,7 +96,7 @@ ORDER BY month_num;
 
 ### 2) Statistical Identity
 
-```
+```sql
 --- Hobart % margin comparison for each season
 
 WITH hobart_season_avg AS (
@@ -158,7 +158,7 @@ ORDER BY season;
 ### 3) Back-to-Back Game Analysis
 
 
-```
+```sql
 -- overall B2B stats comparing across all seasons against their margins
 
 WITH hobart_games AS (
@@ -320,7 +320,7 @@ SELECT * FROM perc_margin;
 
 ### 4) Advanced Analytical Breakdown
 
-```
+```sql
 -- Hobart season advanced analytics
 
 SELECT
