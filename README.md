@@ -54,17 +54,56 @@ As someone who considers himself an analytical coach, I was overjoyed from the o
 ## 🛠 The Analysis & Sample SQL Queries
 
 ### 1) Overall Success Summary
-```sql
-SELECT 
-    season,
-    ROUND(AVG(avg_fga - avg_oreb + avg_to + 0.475 * avg_fta), 2) AS possessions
-FROM team_stats
-WHERE team_id = 'HOB'
-GROUP BY season;
+
+
+
+```
+--- Wins/losses by month over last 5 years
+
+
+WITH hobart_monthly_games AS (
+    SELECT
+        TO_CHAR(game_date::date, 'Month') AS month,
+        EXTRACT(MONTH FROM game_date) AS month_num,
+        is_win
+    FROM team_stats
+    WHERE team_id = 'HOB'
+),
+monthly_summary AS (
+    SELECT
+        TRIM(month) AS month,
+        month_num,
+        COUNT(*) AS games_played,
+        COUNT(CASE WHEN is_win THEN 1 END) AS wins,
+        COUNT(CASE WHEN NOT is_win THEN 1 END) AS losses,
+        ROUND(100.0 * COUNT(CASE WHEN is_win THEN 1 END) / COUNT(*), 1) AS win_pct
+    FROM hobart_monthly_games
+    GROUP BY month, month_num
+)
+SELECT
+    month,
+    games_played,
+    wins,
+    losses,
+    win_pct
+FROM monthly_summary
+WHERE month IN ('November', 'December', 'January', 'February', 'March')
+ORDER BY month_num;
+```
+
+<img width="427" alt="image" src="https://github.com/user-attachments/assets/94516641-5c00-450c-a308-3e6564f6f000" />
+
 
 ### 2) Statistical Identity
 
-dsaf
+
+
+
+### 3) Back-to-Back Game Analysis
+
+
+
+### 4) Advanced Analytical Breakdown
 
 
 
