@@ -320,6 +320,84 @@ SELECT * FROM perc_margin;
 
 ### 4) Advanced Analytical Breakdown
 
+```
+-- Hobart season advanced analytics
+
+SELECT
+    season,
+
+    -- Possession & efficiency
+    ROUND((avg_fga - avg_oreb + avg_to + 0.475 * avg_fta), 2) AS possessions,
+    ROUND((avg_fgm + 0.5 * avg_fgm3) / avg_fga, 3) AS efg_pct,
+    ROUND(avg_points / (2 * (avg_fga + 0.44 * avg_fta)), 3) AS ts_pct,
+    ROUND(100.0 * avg_points / (avg_fga - avg_oreb + avg_to + 0.475 * avg_fta), 2) AS off_rating,
+
+    -- Ball control
+    ROUND(avg_to / (avg_fga - avg_oreb + avg_to + 0.475 * avg_fta), 3) AS tov_pct,
+    ROUND(avg_ast / avg_to, 2) AS ast_to_ratio,
+    ROUND(avg_ast / avg_fgm, 3) AS assist_pct,
+
+    -- Rebounding
+    ROUND(avg_oreb / avg_reb, 3) AS oreb_pct,
+    ROUND(avg_dreb / avg_reb, 3) AS dreb_pct,
+
+    -- Scoring profile
+    ROUND((avg_fgm3 * 3.0) / avg_points, 3) AS pct_pts_3pt,
+    ROUND(avg_ftm / avg_points, 3) AS pct_pts_ft,
+    ROUND(avg_pts_bench / avg_points, 3) AS pct_pts_bench,
+    ROUND(avg_pts_paint / avg_points, 3) AS pct_pts_paint,
+    ROUND(avg_pts_fastb / avg_points, 3) AS pct_pts_fastb,
+    ROUND(avg_pts_ch2 / avg_points, 3) AS pct_pts_ch2,
+    ROUND(avg_pts_to / avg_points, 3) AS pct_pts_to,
+
+    -- Style of play
+    ROUND(avg_fta / avg_fga, 3) AS fta_rate,
+    ROUND(avg_fga3 / avg_fga, 3) AS fga3_rate,
+    ROUND(avg_fgm / (avg_fga - avg_oreb + avg_to), 3) AS play_pct
+
+FROM hobart_season_averages
+ORDER BY season;
+
+
+-- Opponent season advanced analytics
+
+SELECT
+    season,
+
+    -- Possession & efficiency
+    ROUND((avg_fga - avg_oreb + avg_to + 0.475 * avg_fta), 2) AS possessions,
+    ROUND((avg_fgm + 0.5 * avg_fgm3) / avg_fga, 3) AS efg_pct,
+    ROUND(avg_points / (2 * (avg_fga + 0.44 * avg_fta)), 3) AS ts_pct,
+    ROUND(100.0 * avg_points / (avg_fga - avg_oreb + avg_to + 0.475 * avg_fta), 2) AS off_rating,
+
+    -- Ball control
+    ROUND(avg_to / (avg_fga - avg_oreb + avg_to + 0.475 * avg_fta), 3) AS tov_pct,
+    ROUND(avg_ast / avg_to, 2) AS ast_to_ratio,
+    ROUND(avg_ast / avg_fgm, 3) AS assist_pct,
+
+    -- Rebounding
+    ROUND(avg_oreb / avg_reb, 3) AS oreb_pct,
+    ROUND(avg_dreb / avg_reb, 3) AS dreb_pct,
+
+    -- Scoring profile
+    ROUND((avg_fgm3 * 3.0) / avg_points, 3) AS pct_pts_3pt,
+    ROUND(avg_ftm / avg_points, 3) AS pct_pts_ft,
+    ROUND(avg_pts_bench / avg_points, 3) AS pct_pts_bench,
+    ROUND(avg_pts_paint / avg_points, 3) AS pct_pts_paint,
+    ROUND(avg_pts_fastb / avg_points, 3) AS pct_pts_fastb,
+    ROUND(avg_pts_ch2 / avg_points, 3) AS pct_pts_ch2,
+    ROUND(avg_pts_to / avg_points, 3) AS pct_pts_to,
+
+    -- Style of play
+    ROUND(avg_fta / avg_fga, 3) AS fta_rate,
+    ROUND(avg_fga3 / avg_fga, 3) AS fga3_rate,
+    ROUND(avg_fgm / (avg_fga - avg_oreb + avg_to), 3) AS play_pct
+
+FROM opp_season_averages
+ORDER BY season;
+```
+
+![Dean_Olivers_Four_Factors Breakdown jpeg 11-15-28-504](https://github.com/user-attachments/assets/63b61b3a-3a7d-4b17-bb4c-e0e67d513716)
 
 
 
