@@ -96,9 +96,63 @@ ORDER BY month_num;
 
 ### 2) Statistical Identity
 
+```
+--- Hobart % margin comparison for each season
+
+WITH hobart_season_avg AS (
+    SELECT
+        season,
+        ROUND(AVG(points), 2) AS avg_points,
+        ROUND(AVG(fgm)::numeric / AVG(fga), 3) AS fg_pct,
+        ROUND(AVG(fgm3)::numeric / AVG(fga3), 3) AS fg3_pct,
+        ROUND(AVG(ftm)::numeric / AVG(fta), 3) AS ft_pct,
+        ROUND(AVG(treb), 2) AS avg_reb,
+        ROUND(AVG(ast), 2) AS avg_ast,
+        ROUND(AVG(stl), 2) AS avg_stl,
+        ROUND(AVG(blk), 2) AS avg_blk,
+        ROUND(AVG(turnovers), 2) AS avg_to
+    FROM team_stats
+    WHERE team_id = 'HOB'
+    GROUP BY season
+),
+opponent_season_avg AS (
+    SELECT
+        season,
+        ROUND(AVG(points), 2) AS avg_points,
+        ROUND(AVG(fgm)::numeric / AVG(fga), 3) AS fg_pct,
+        ROUND(AVG(fgm3)::numeric / AVG(fga3), 3) AS fg3_pct,
+        ROUND(AVG(ftm)::numeric / AVG(fta), 3) AS ft_pct,
+        ROUND(AVG(treb), 2) AS avg_reb,
+        ROUND(AVG(ast), 2) AS avg_ast,
+        ROUND(AVG(stl), 2) AS avg_stl,
+        ROUND(AVG(blk), 2) AS avg_blk,
+        ROUND(AVG(turnovers), 2) AS avg_to
+    FROM team_stats
+    WHERE team_id != 'HOB'
+    GROUP BY season
+),
+season_pct_margin AS (
+    SELECT
+        h.season,
+        ROUND((h.avg_points - o.avg_points) / o.avg_points * 100, 1) AS pct_margin_points,
+        ROUND((h.fg_pct - o.fg_pct) / o.fg_pct * 100, 1) AS pct_margin_fg_pct,
+        ROUND((h.fg3_pct - o.fg3_pct) / o.fg3_pct * 100, 1) AS pct_margin_fg3_pct,
+        ROUND((h.ft_pct - o.ft_pct) / o.ft_pct * 100, 1) AS pct_margin_ft_pct,
+        ROUND((h.avg_reb - o.avg_reb) / o.avg_reb * 100, 1) AS pct_margin_reb,
+        ROUND((h.avg_ast - o.avg_ast) / o.avg_ast * 100, 1) AS pct_margin_ast,
+        ROUND((h.avg_stl - o.avg_stl) / o.avg_stl * 100, 1) AS pct_margin_stl,
+        ROUND((h.avg_blk - o.avg_blk) / o.avg_blk * 100, 1) AS pct_margin_blk,
+        ROUND((o.avg_to - h.avg_to) / h.avg_to * 100, 1) AS pct_margin_to  -- reversed logic
+    FROM hobart_season_avg h
+    JOIN opponent_season_avg o ON h.season = o.season
+)
+SELECT *
+FROM season_pct_margin
+ORDER BY season;
+
+```
+
 ![image](https://github.com/user-attachments/assets/0054b815-b751-4fcb-8f4a-560b0ff5d358)
-
-
 
 
 ### 3) Back-to-Back Game Analysis
