@@ -91,7 +91,7 @@ WHERE month IN ('November', 'December', 'January', 'February', 'March')
 ORDER BY month_num;
 ```
 
-![hob_monthly_win_per](https://github.com/user-attachments/assets/3e9fdeb5-11bf-461b-aed8-052a6429d5cb)
+(https://github.com/user-attachments/assets/3e9fdeb5-11bf-461b-aed8-052a6429d5cb)
 
 
 
