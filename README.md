@@ -51,9 +51,9 @@ As someone who considers himself an analytical coach, I was overjoyed from the o
 
 ---
 
-## 🛠 Sample SQL Query
-Here's a small example of one of the queries used to calculate team possessions:
+## 🛠 The Analysis & Sample SQL Queries
 
+### Overall Success Summary
 ```sql
 SELECT 
     season,
