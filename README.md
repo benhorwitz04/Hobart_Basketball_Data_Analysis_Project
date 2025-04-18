@@ -57,7 +57,7 @@ As someone who considers himself an analytical coach, I was overjoyed from the o
 
 
 
-```
+```sql
 --- Wins/losses by month over last 5 years
 
 
