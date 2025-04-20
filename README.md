@@ -101,6 +101,12 @@ ORDER BY month_num;
 
 ### 2) Statistical Identity
 
+This chapter dives deeper into the numbers behind Hobart Basketball’s performance over the past five seasons, moving beyond individual box scores to uncover consistent program trends. By compiling and analyzing key statistical categories, this section aims to reveal Hobart’s core identity on the court, supported by graphics for clearer interpretation.
+
+The data shows that Hobart’s identity is built around physicality, rebounding dominance, and second-chance opportunities. The team consistently outperformed opponents in effort-driven categories like rebounding margin, second-chance points, and points in the paint. However, the analysis also highlights growth opportunities—particularly in defensive disruption metrics such as steals, blocks, and turnovers forced.
+
+Importantly, seasons with stronger statistical margins often mirrored postseason success, while also underscoring the role of situational execution and chemistry. This five-year overview provides a valuable foundation for reflection and strategic refinement as Hobart looks to build on its strengths moving forward.
+
 ```sql
 --- Hobart % margin comparison for each season
 
@@ -163,6 +169,11 @@ ORDER BY season;
 
 ### 3) Back-to-Back Game Analysis
 
+This chapter examines Hobart Basketball’s performance during second-day back-to-back (B2B) games compared to full-season averages across the 2019–2025 seasons. A unique challenge of the Liberty League schedule is that many regular-season games are played on consecutive days, with additional back-to-back contests occurring during non-conference tournaments.
+
+Across 44 second-day B2B games, Hobart consistently rose to the challenge, posting a 75.0% win rate — a significant increase from their 66.7% full-season winning percentage. Statistical analysis shows improvements in key areas such as free throw shooting, three-point efficiency, bench scoring, and turnover management, signaling strong preparation and in-game adaptability.
+
+While minor declines in blocks, steals, and rebounding were observed — typical signs of fatigue — Hobart’s offensive execution and scoring consistency remained steady. These findings highlight the program’s resilience, depth, and mental toughness, positioning them well for postseason success and affirming the strength of the team’s culture and leadership.
 
 ```sql
 -- overall B2B stats comparing across all seasons against their margins
@@ -325,6 +336,12 @@ SELECT * FROM perc_margin;
 
 
 ### 4) Advanced Analytical Breakdown
+
+This chapter applies advanced basketball metrics—many of which are widely used at the NBA level—to Hobart Basketball’s performance over the past five seasons. By leveraging detailed box score data, we develop a deeper, more statistical understanding of the program’s tendencies, strengths, and areas for growth.
+
+The analysis reveals a clear identity built on physicality, second-chance points, and efficient interior scoring. Highlights include high free throw rates and consistent success around the rim, with the 2022–2023 season standing out for its offensive balance. However, challenges persist in turnover percentage and perimeter scoring, where Hobart trails its opponents.
+
+Applying these advanced metrics equips Hobart’s coaches and players with sharper insights, offering a roadmap to refine strategies and maintain a competitive edge as analytics continue to shape the future of basketball.
 
 ```sql
 -- Hobart season advanced analytics
