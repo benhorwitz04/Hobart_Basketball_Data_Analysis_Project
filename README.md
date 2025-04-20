@@ -395,7 +395,7 @@ FROM opp_season_averages
 ORDER BY season;
 ```
 
-![Dean_Olivers_Four_Factors Breakdown jpeg 11-15-28-504](https://github.com/user-attachments/assets/63b61b3a-3a7d-4b17-bb4c-e0e67d513716)
+'/Users/benjaminhorwitz/Documents/Developer/Final_Hobart_Project/Breakdowns/Advanced_stats/images/Dean_Olivers_Four_Factors Breakdown.jpeg 11-15-28-504.jpeg'
 
 
 
