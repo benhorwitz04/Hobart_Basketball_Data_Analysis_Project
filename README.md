@@ -14,8 +14,6 @@ For years, obtaining advanced metrics and in-depth analysis has been a challenge
 
 As someone who considers himself an analytical coach, I was overjoyed from the outset of this project. The opportunity to provide value in a way that differentiates us from most programs at our level was exciting and motivating. I was eager to bring a more data-driven approach to our preparation and contribute a unique layer of insight to our program’s competitive strategy.
 
-> 📄 [Download the Full Data Analysis Portfolio (PDF)](Hobart_Basketball_Data_Analysis_Portfolio.pdf)
-
 ---
 
 ## 🏀 Included Reports
