@@ -396,6 +396,7 @@ ORDER BY season;
 ```
 
 
+![Dean_Olivers_Four_Factors Breakdown jpeg 11-15-28-504 (2)](https://github.com/user-attachments/assets/7e850640-636c-4191-91af-5e3a57a97b27)
 
 
 
