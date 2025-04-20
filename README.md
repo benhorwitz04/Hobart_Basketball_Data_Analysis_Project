@@ -8,7 +8,7 @@ It includes a combination of SQL, Python scripting, and manual data validation t
 > 📄 [Download the Full Data Analysis Portfolio (PDF)](Hobart_Basketball_Data_Analysis_Portfolio.pdf)
 
 ## 📚 Background
-I currently serve as an assistant basketball coach for Hobart Basketball. One of the most exciting aspects of game preparation is the process of scouting opponents. When preparing for an upcoming scout, our coaching staff naturally tries to compile as much information as possible. A key part of that process involves gathering data and assembling a clear, objective picture of a team’s identity. While numbers are certainly not the entire story, they provide an unbiased foundation with large amounts of data to support the conclusions we draw.
+I currently serve as an assistant basketball coach for Hobart Basketball. One of the most exciting aspects of game preparation is the process of scouting opponents. When preparing for an upcoming scout, our coaching staff naturally tries to compile as much information as possible. A key part of that process involves gathering data and assembling a clear, objective picture of a team’s identity. While numbers are certainly not the entire story, they provide an unbiased foundation that supports the conclusions we draw with large amounts of data.
 
 For years, obtaining advanced metrics and in-depth analysis has been a challenge for programs like Hobart at the Division III level. Historically, there was a barrier to accessing the type of analytics and breakdowns available at higher levels of basketball. However, in recent years, the enthusiasm for analyzing sports through a data-focused lens has grown significantly, and the tools, formulas, and understanding of advanced metrics have become much more accessible.
 
@@ -45,8 +45,7 @@ As someone who considers himself an analytical coach, I was overjoyed from the o
 - **Excel** (Manual Data Cleaning)
 - **Bricks** (Graphs and Visuals)
 - **VS Code** (Development Environment)
-- **ChatGPT** (Code revsion and construciton)
-
+- **ChatGPT** (Code revision and construction)
 ---
 
 ## 🛠 The Analysis & Sample SQL Queries
@@ -424,8 +423,8 @@ Throughout this project, I developed several new skills while continuing to shar
 
 ## Next Steps/Future Work
 * **Complete Player Data Integration:** Complete the player portion of the database, allowing me to explore even more questions about Hobart Basketball over the past five seasons.
-* **Expand Team Coverage:** Expand the project to include teams beyond Hobart, particularly those within the same conference.Expand the project to include teams beyond Hobart, particularly those within the same conference.
-* **Ongoing Research and Exploration:** Continue researching and answering additional questions using the current database — both ones I’m curious about and ones the coaching staff may want answered.Continue researching and answering additional questions using the current database — both ones I’m curious about and ones the coaching staff may want answered.
+* **Expand Team Coverage:** Expand the project to include teams beyond Hobart, particularly those within the same conference.
+* **Ongoing Research and Exploration:** Continue researching and answering additional questions using the current database — both ones I’m curious about and ones the coaching staff may want answered.
 
 ### Closing Thoughts
 As an assistant coach for Hobart Basketball during four of the five seasons analyzed in this project, it was incredibly insightful to uncover data that reinforces many of the core teaching points and philosophies of our program. Not only does the data align with our style of play on the court, but it also echoes the conversations, values, and pillars that shape our culture off the court.
