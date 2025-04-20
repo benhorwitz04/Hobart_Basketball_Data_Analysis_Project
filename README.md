@@ -395,7 +395,7 @@ FROM opp_season_averages
 ORDER BY season;
 ```
 
-![Dean_Olivers_Four_Factors Breakdown jpeg 11-15-28-504](https://github.com/user-attachments/assets/43056300-2d14-4d31-a11f-35b8da4d6f5d)
+
 
 
 
