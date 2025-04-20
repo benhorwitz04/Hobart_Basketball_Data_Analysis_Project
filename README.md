@@ -88,7 +88,6 @@ FROM monthly_summary
 WHERE month IN ('November', 'December', 'January', 'February', 'March')
 ORDER BY month_num;
 ```
-![Table](https://github.com/user-attachments/assets/3be3ac8b-bdef-4121-ac29-7f1b3e6f05ce)
 
 
 ### 2) Statistical Identity
@@ -149,7 +148,7 @@ ORDER BY season;
 
 ```
 
-![image](https://github.com/user-attachments/assets/0054b815-b751-4fcb-8f4a-560b0ff5d358)
+![Table](https://github.com/user-attachments/assets/c6c9899a-6706-4914-861f-a6bb857f0d10)
 
 
 ### 3) Back-to-Back Game Analysis
