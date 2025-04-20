@@ -148,7 +148,8 @@ ORDER BY season;
 
 ```
 
-![Table](https://github.com/user-attachments/assets/c6c9899a-6706-4914-861f-a6bb857f0d10)
+![Table (1)](https://github.com/user-attachments/assets/5f83d147-bf10-49e0-9b20-b4d2c0c0d89e)
+
 
 
 ### 3) Back-to-Back Game Analysis
