@@ -417,24 +417,22 @@ FROM opp_season_averages
 ORDER BY season;
 ```
 
-
 ![Dean_Olivers_Four_Factors Breakdown jpeg 11-15-28-504 (2)](https://github.com/user-attachments/assets/7e850640-636c-4191-91af-5e3a57a97b27)
-
 
 ## What I Learned
 Throughout this project, I developed several new skills while continuing to sharpen the ones I already had. The most complex part of building the analysis and answering the questions I set out to explore was constructing the database. It was my first time working with a database that wasn’t already fully complete. Through a lot of trial and error — and a lot of self-education — I learned just how challenging (and important) it is to create clean, accurate data. Although it was a demanding process, it made completing the project all the more fulfilling. It also gave me a real appreciation for how critical accurate information is — and how difficult organizing data can be when it's not already structured.
 
 ## Next Steps/Future Work
-* Complete the player portion of the database, allowing me to explore even more questions about Hobart Basketball over the past five seasons.
-* Expand the project to include teams beyond Hobart, particularly those within the same conference.
-* Continue researching and answering additional questions using the current database — both ones I’m curious about and ones the coaching staff may want answered.
-
-
-## Conclusions
-### Insights
+* **Complete Player Data Integration:** Complete the player portion of the database, allowing me to explore even more questions about Hobart Basketball over the past five seasons.
+* **Expand Team Coverage:** Expand the project to include teams beyond Hobart, particularly those within the same conference.Expand the project to include teams beyond Hobart, particularly those within the same conference.
+* **Ongoing Research and Exploration:** Continue researching and answering additional questions using the current database — both ones I’m curious about and ones the coaching staff may want answered.Continue researching and answering additional questions using the current database — both ones I’m curious about and ones the coaching staff may want answered.
 
 ### Closing Thoughts
+As an assistant coach for Hobart Basketball during four of the five seasons analyzed in this project, it was incredibly insightful to uncover data that reinforces many of the core teaching points and philosophies of our program. Not only does the data align with our style of play on the court, but it also echoes the conversations, values, and pillars that shape our culture off the court.
 
+While many strengths were confirmed through this analysis, it was equally important to clearly identify areas where improvement is needed. Recognizing these opportunities gives me confidence that, with focus and a concentrated effort, meaningful adjustments can be made that will positively impact our team’s future success.
+
+Finally, being able to combine two of my passions — basketball and data analysis — into one project has been especially rewarding. Contributing to the growth of our program, while also growing personally and professionally, has been an incredibly fulfilling experience.
 
 
 
