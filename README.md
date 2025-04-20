@@ -164,11 +164,13 @@ ORDER BY season;
 
 ### 3) Back-to-Back Game Analysis
 
-This chapter examines Hobart Basketball’s performance during second-day back-to-back (B2B) games compared to full-season averages across the 2019–2025 seasons. A unique challenge of the Liberty League schedule is that many regular-season games are played on consecutive days, with additional back-to-back contests occurring during non-conference tournaments.
+Once I started working through some of the questions I wanted to analyze using the database I built, I was especially eager to dive into the topic of back-to-back (B2B) game performance. I had just recently completed a project examining B2B performance during the NBA’s 2023–2024 season (https://github.com/benhorwitz04/NBA_Back_to_Back_Preformance_Analysis), and I was excited to apply similar methods to Hobart Basketball.
 
-Across 44 second-day B2B games, Hobart consistently rose to the challenge, posting a 75.0% win rate — a significant increase from their 66.7% full-season winning percentage. Statistical analysis shows improvements in key areas such as free throw shooting, three-point efficiency, bench scoring, and turnover management, signaling strong preparation and in-game adaptability.
+The Liberty League presents a unique challenge at the Division III level, with a schedule that regularly requires teams to play consecutive-day games — something far less common across most DIII conferences. Even before I began working on this specific question, my head coach mentioned B2B performance as the first area he would like to explore further. So, this wasn’t just a personal curiosity — it was a topic of interest for the coaching staff as well.
 
-While minor declines in blocks, steals, and rebounding were observed — typical signs of fatigue — Hobart’s offensive execution and scoring consistency remained steady. These findings highlight the program’s resilience, depth, and mental toughness, positioning them well for postseason success and affirming the strength of the team’s culture and leadership.
+Across 44 second-day B2B games over the past five seasons, Hobart consistently rose to the challenge, posting a 75.0% win rate — a significant improvement over the team's 66.7% full-season winning percentage. Statistical analysis revealed improvements in key areas such as free throw shooting, three-point efficiency, bench scoring, and turnover management, highlighting the team's strong preparation and in-game adaptability.
+
+Below, you can see the SQL query used to explore these questions, along with a table comparing Hobart’s full-season averages to their performance specifically in second-day B2B scenarios.
 
 ```sql
 -- overall B2B stats comparing across all seasons against their margins
@@ -332,11 +334,11 @@ SELECT * FROM perc_margin;
 
 ### 4) Advanced Analytical Breakdown
 
-This chapter applies advanced basketball metrics—many of which are widely used at the NBA level—to Hobart Basketball’s performance over the past five seasons. By leveraging detailed box score data, we develop a deeper, more statistical understanding of the program’s tendencies, strengths, and areas for growth.
+The final step in this project was to push the analysis beyond the standard statistics typically available at the Division III level. I wanted to explore advanced analytics — the kind more commonly found at the NBA level — to see if I could uncover additional insights that might not be visible through traditional categories or formulas.
 
-The analysis reveals a clear identity built on physicality, second-chance points, and efficient interior scoring. Highlights include high free throw rates and consistent success around the rim, with the 2022–2023 season standing out for its offensive balance. However, challenges persist in turnover percentage and perimeter scoring, where Hobart trails its opponents.
+By researching advanced metrics and formulas published by the NBA, I was able to build custom SQL queries (one of which is included below) to calculate and explore these statistics.
 
-Applying these advanced metrics equips Hobart’s coaches and players with sharper insights, offering a roadmap to refine strategies and maintain a competitive edge as analytics continue to shape the future of basketball.
+While many of the results reinforced earlier findings, this deeper analysis provided a clearer roadmap for refining strategies and maintaining a competitive edge — an important step as analytics continue to shape the future of basketball.
 
 ```sql
 -- Hobart season advanced analytics
