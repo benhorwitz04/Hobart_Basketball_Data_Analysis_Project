@@ -88,6 +88,7 @@ FROM monthly_summary
 WHERE month IN ('November', 'December', 'January', 'February', 'March')
 ORDER BY month_num;
 ```
+![hob_monthly_win_per](https://github.com/user-attachments/assets/79913a0b-d210-4af9-b865-4339e5eefe40)
 
 
 ### 2) Statistical Identity
