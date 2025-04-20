@@ -53,14 +53,9 @@ As someone who considers himself an analytical coach, I was overjoyed from the o
 
 ### 1) Overall Success Summary
 
-This chapter provides a statistical and visual overview of Hobart Basketball's team performance from 2019 to 2025. Focusing on wins and losses, month-by-month trends, opponent breakdowns, and shooting efficiencies, it highlights a sustained period of success under Head Coach Stefan Thompson.
+Starting simple, once my database was complete, I set out to provide an overall summary of Hobart Basketball's team performance from 2019 to 2025. I began by focusing on wins and losses, and then looked to identify possible trends in success by month, opponent, and overall efficiency.
 
-Across six seasons, Hobart posted a strong 66.7% win rate, with dominant performances at home, where they achieved an 80.9% home winning percentage. Month-by-month analysis reveals December as a particularly efficient and successful period, while free throw shooting peaked in March (75.4%), coinciding with key postseason moments. Defensively, the team consistently held opponents below 43% shooting, emphasizing a strong commitment to limiting high-quality opportunities.
-
-Opponent breakdowns further illustrate areas of dominance and opportunities for strategic improvement. By recognizing recurring trends, Hobart can celebrate its successes and target specific areas for growth.
-
-This chapter captures a program built on a strong foundation of consistent success, with clear indicators of both past achievements and future potential.
-
+Over the five-season span, Hobart posted a strong 66.7% overall win rate, with especially dominant performances at home, where they achieved an 80.9% winning percentage. I also highlighted some of the teams Hobart consistently performed well against — and others that proved to be more challenging. Month-by-month analysis revealed December as a particularly efficient and successful period for the program. This is showcased below through sample SQL code and a graphic, both of which are included in the full-page PDF report.
 
 ```sql
 --- Wins/losses by month over last 5 years
@@ -101,11 +96,11 @@ ORDER BY month_num;
 
 ### 2) Statistical Identity
 
-This chapter dives deeper into the numbers behind Hobart Basketball’s performance over the past five seasons, moving beyond individual box scores to uncover consistent program trends. By compiling and analyzing key statistical categories, this section aims to reveal Hobart’s core identity on the court, supported by graphics for clearer interpretation.
+Once I established some comfort with the data in the previous section, I took a deeper dive into the numbers behind Hobart’s performance over the past five years. I approached this portion of the project with a lot of enthusiasm, ultimately highlighting what I coined as **"Hobart’s Statistical Identity."**
 
-The data shows that Hobart’s identity is built around physicality, rebounding dominance, and second-chance opportunities. The team consistently outperformed opponents in effort-driven categories like rebounding margin, second-chance points, and points in the paint. However, the analysis also highlights growth opportunities—particularly in defensive disruption metrics such as steals, blocks, and turnovers forced.
+Moving beyond the traditional box score, I analyzed a wide range of statistical categories across all five seasons to uncover consistent trends. It was exciting to discover data that supports Hobart’s identity as an effort-driven and physical program — particularly through metrics such as rebound margin, second-chance points, and points in the paint. Additionally, comparing and contrasting the five seasons to rank performance in key categories proved to be especially insightful, particularly when viewed through relative percentages rather than absolute margins. This can be observed below with the sample SQL query, and also the colorful table.
 
-Importantly, seasons with stronger statistical margins often mirrored postseason success, while also underscoring the role of situational execution and chemistry. This five-year overview provides a valuable foundation for reflection and strategic refinement as Hobart looks to build on its strengths moving forward.
+Equally important was identifying the areas where there is room for growth. Highlighting the metrics that have consistently posed challenges provides a clear opportunity for focused improvement moving forward.
 
 ```sql
 --- Hobart % margin comparison for each season
@@ -423,6 +418,20 @@ ORDER BY season;
 
 ![Dean_Olivers_Four_Factors Breakdown jpeg 11-15-28-504 (2)](https://github.com/user-attachments/assets/7e850640-636c-4191-91af-5e3a57a97b27)
 
+
+## What I Learned
+Throughout this project, I developed several new skills while continuing to sharpen the ones I already had. The most complex part of building the analysis and answering the questions I set out to explore was constructing the database. It was my first time working with a database that wasn’t already fully complete. Through a lot of trial and error — and a lot of self-education — I learned just how challenging (and important) it is to create clean, accurate data. Although it was a demanding process, it made completing the project all the more fulfilling. It also gave me a real appreciation for how critical accurate information is — and how difficult organizing data can be when it's not already structured.
+
+## Next Steps/Future Work
+* Complete the player portion of the database, allowing me to explore even more questions about Hobart Basketball over the past five seasons.
+* Expand the project to include teams beyond Hobart, particularly those within the same conference.
+* Continue researching and answering additional questions using the current database — both ones I’m curious about and ones the coaching staff may want answered.
+
+
+## Conclusions
+### Insights
+
+### Closing Thoughts
 
 
 
